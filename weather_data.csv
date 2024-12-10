@@ -1,0 +1,1352 @@
+_id,rainfall,station_name,latitude,longitude,district_name,taluk_name,firka_name,date
+CUDBHUBHU1,0.0,Vadakrishnapuram,11.48413,79.61193,Cuddalore,Bhuvanagiri,Bhuvanagiri,09-12-2024
+NLGPANCHE1,0.0,Erumad-1,11.56985,76.25904,Nilgiris,Pandalur,Cherambadi,09-12-2024
+DGLDINDIN12,0.0,Mullipadi,10.3996,78.02181,Dindigul,Dindigul (East),Dindigul (East),09-12-2024
+CGLTHRPAI20,0.0,Paiyanur,12.64387,80.17353,Chengalpattu,Thirupporur,Paiyanur,09-12-2024
+ERDPERVEL44,0.0,Pungampadi,11.23535,77.65842,Erode,Perundurai,Vellode,09-12-2024
+MDUTIRKOK5,0.0,A.Kokkulam,9.940408,77.97308,Madurai,Tirumangalam,Kokkulam,09-12-2024
+CHN12Z157W39,0.4,Manappakkam,13.01277,80.16318,Chennai,Alandur,Ward 157 (Alandur),09-12-2024
+SLMVALVAL49,0.0,Singipuram,11.6325,78.40721,Salem,Valapady,Valapady,09-12-2024
+MYDSIRMAA1,0.0,Mahendirapalli,11.3609,79.79164,Mayiladuthurai,Sirkazhi,Maadhanam,09-12-2024
+PDKKULKIL15,0.0,Chettipatti,10.67343,78.82814,Pudukkottai,Kulathur,Killukkottai,09-12-2024
+TVRNANAKA4,0.0,Kollapuram,10.95308,79.71401,Thiruvarur,Nannilam,Akarathirumaalam,09-12-2024
+RMDMUDKEE12,0.0,Pullandai,9.247273,78.78968,Ramanathapuram,Mudukulathur,Keelathooval,09-12-2024
+TRYTHRNAV23,0.0,Navalpattu,10.72962,78.76209,Thiruchirappalli,Thiruverumbur,Navalpattu,09-12-2024
+RPTSHOSHO14,0.0,Kodaikkal,13.06983,79.41381,Ranipet,Sholingur,Sholingur,09-12-2024
+TPRPALPON32,0.0,Elavanthi,10.92115,77.31384,Tiruppur,Palladam,Pongalore,09-12-2024
+DGLODDODD19,0.0,Oddanchataram,10.48284,77.7307,Dindigul,,Oddenchatram,09-12-2024
+THNBODBOD2,0.0,Kottakudi,10.01851,77.26457,Theni,Bodinayakanur,Bodinayakanur_R.F,09-12-2024
+TVMVANVAN57,0.0,Aarasoor,12.51501,79.54399,Tiruvannamalai,Vandavasi,Vandavasi,09-12-2024
+CBEANAMAR22,0.0,Periyapodhu,10.60945,76.88068,Coimbatore,Anaimalai,Marchanayekanpalayam,09-12-2024
+KKMAGANAG11,0.0,Nagercoil,8.180437,77.42472,Kanniyakumari,Agastheeswaram,Nagercoil,09-12-2024
+TVRTHRAAL2,0.0,Alathampadi,10.60622,79.65983,Thiruvarur,Thiruthuraipoondi,Aalathambadi,09-12-2024
+NMKSENALA1,0.0,Pottireddipatty,11.19321,78.25159,Namakkal,Sendamangalam,Alanganatham,09-12-2024
+TPRPALPON31,0.0,Pongalur,10.9132,77.26472,Tiruppur,Palladam,Pongalore,09-12-2024
+DGLPALPAL35,0.0,Balasuthiram,10.38262,77.48763,Dindigul,Palani,Palani,09-12-2024
+DGLVEDAYY3,0.0,Ayyalur,10.48555,78.15359,Dindigul,Vedasandur,Ayyalur,09-12-2024
+TUTTHOMUD20,0.0,Mudivaithanenthal,8.735126,78.00133,Thoothukudi,Thoothukudi,Mudivaithanendal,09-12-2024
+TRYSRIAND4,0.0,Kodiyalam,10.84344,78.5844,Thiruchirappalli,Srirangam,Andanallur,09-12-2024
+TUTSATPAL26,0.0,Naduvakurichi,8.37395,77.93809,Thoothukudi,Sattankulam,Pallakkurichi,09-12-2024
+PMBKUNVAR49,0.0,Kunnam,11.23696,79.01611,Perambalur,,Varagur,09-12-2024
+NLGGUDDEV4,0.0,Srimadurai,11.54884,76.48747,Nilgiris,Gudalur,Deversholai,09-12-2024
+ARISENSEN13,0.0,Namangunam,11.28173,79.1229,Ariyalur,Sendurai,Sendurai,09-12-2024
+PDKARAARA2,0.0,Aranthangi,10.17205,78.99706,Pudukkottai,Aranthangi,Aranthangi,09-12-2024
+CUDCHIORA15,0.0,Orathur,11.42481,79.58653,Cuddalore,Chidambaram,Orathur,09-12-2024
+ERDKODKIL22,0.0,Kilampadi (B),11.19476,77.84952,Erode,Kodumudi,Kilampadi,09-12-2024
+CHN03Z023W12,0.0,Puzhal_1,13.15781,80.20225,Chennai,Madhavaram,Ward 23 (Kavangarai),09-12-2024
+CBEANAANA2,0.0,Aliyar Dam,10.58096,76.93827,Coimbatore,Anaimalai,Anaimalai,09-12-2024
+KARARAPAL21,0.0,Esanatham,10.70359,78.00149,Karur,Aravakurichi,Pallapatti,09-12-2024
+VELGUDVAL22,0.0,Valathur,12.88388,78.82923,Vellore,Gudiyatham,Valathur,09-12-2024
+TVRNANNAN90,0.0,Muddikondan,10.8909,79.64483,Thiruvarur,,Nannilam,09-12-2024
+ERDKODKOD23,0.0,Kodumudi (A),11.08174,77.88554,Erode,Kodumudi,Kodumudi,09-12-2024
+TUTOTTOTT24,0.0,Araikulam,8.924905,77.97379,Thoothukudi,Ottapidaram,Ottapidaram,09-12-2024
+CUDKURKUR13,0.0,Rasakuppam,11.56358,79.57755,Cuddalore,,Kurinjipadi,09-12-2024
+NLGKOTNED24,0.0,Thengumarahada,11.5692,76.92706,Nilgiris,Udhagai,Udhagai_R.F,09-12-2024
+SLMMETKOL19,0.0,Kaveripuram,11.91246,77.71155,Salem,Mettur,Kolathur,09-12-2024
+ERDTHATAL39,0.0,Arulavadi,11.76687,76.92495,Erode,Thalavadi,Talavadi,09-12-2024
+TRYTHUERA6,0.0,Erakudi,11.18935,78.5068,Thiruchirappalli,Thuraiyur,Eragudi,09-12-2024
+MDUPERMOT12,0.4,Mothagam,9.675576,77.80934,Madurai,Peraiyur,Mothagam,09-12-2024
+NGPVEDKAR9,0.0,Settipulam (Kariyapattinam),10.46848,79.74246,Nagapattinam,Vedaranyam,Kariapattinam,09-12-2024
+CUDVEPVEP31,0.0,Veppur,11.53266,79.12308,Cuddalore,Veppur,Veppur,09-12-2024
+KARPUGTHE27,0.0,Anjur,11.06481,77.79497,Karur,Pugalur,Thennilai,09-12-2024
+VNRARUPAR28,0.4,Paralachi,9.342296,78.26914,Virudhunagar,Aruppukottai,Paralachi,09-12-2024
+CHN06Z065W18,0.0,Kolathur,13.12795,80.20618,Chennai,Thiru. Vi. Ka. Nagar,Ward 65 (Thiru.Vi. Ka Nagar),09-12-2024
+PMBKUNKEL4,0.0,Asur,11.25878,78.99881,Perambalur,Kunnam,Kelapuliyur,09-12-2024
+TNVNANKAL10,0.0,Idaiyankulam,8.583039,77.58332,Tirunelveli,Nanguneri,Kalakad,09-12-2024
+TPTVANALA1,0.0,Nimmiyammpattu,12.6316,78.7013,Tirupathur,Vaniyambadi,Alangayam,09-12-2024
+TKSALAALA2,0.0,Sivalarkulam,8.864543,77.51561,Tenkasi,Alangulam,Alangulam,09-12-2024
+TVMARNAGA1,0.0,Agrapalayam,12.70512,79.24859,Tiruvannamalai,Arni,Agarapalayam,09-12-2024
+ERDTHATAL38,0.0,Hasanoor,11.65621,77.14174,Erode,Thalavadi,Talavadi,09-12-2024
+TNVPALPAL23,0.0,Keelaveeragavapuram,8.726123,77.71563,Tirunelveli,Palayamkottai,Palayamkottai,09-12-2024
+VELANAAGA2,0.0,Agaram,12.82182,78.89111,Vellore,Anaicut,Agaram,09-12-2024
+TKSTENTEN74,0.0,Tenkasi,8.970244,77.30168,Tenkasi,,Tenkasi,09-12-2024
+KKMTHITHI15,0.0,Cherukole,8.305014,77.25711,Kanniyakumari,Thiruvattar,Thiruvattar,09-12-2024
+KGIDENRAY35,0.0,Rayakottai,12.51594,78.03439,Krishnagiri,Denkanikottai,Rayakottai,09-12-2024
+DPIKARKAM9,0.0,Kambainallur,12.20408,78.31683,Dharmapuri,Karimangalam,Kambainallur,09-12-2024
+TVMPOLMOD22,0.0,Modaiyur,12.50667,79.22402,Tiruvannamalai,Polur,Modaiyur,09-12-2024
+KGIHOSMAT26,0.0,Gobanapalli,12.64721,77.78939,Krishnagiri,Hosur,Mathigiri,09-12-2024
+MYDSIRTHI12,0.0,Thiruvengadu,11.17536,79.80804,Mayiladuthurai,Sirkazhi,Thiruvenkadu,09-12-2024
+TPRDHAKUN13,0.0,Kundadam,10.84743,77.45075,Tiruppur,Dharapuram,Kundadam,09-12-2024
+TPRPALPAL24,0.0,Karaipudur,11.03856,77.31477,Tiruppur,Palladam,Palladam,09-12-2024
+NMKNAMPUD20,0.0,Kadhiranallur,11.39033,78.19642,Namakkal,Namakkal,Puduchatram,09-12-2024
+KPMUTHUTH18,0.0,Pennalur,12.60011,79.71259,Kancheepuram,Uthiramerur,Kaliyampoondi,09-12-2024
+NLGUDHUDA31,0.0,Sholur,11.43729,76.64107,Nilgiris,Udhagai,Udhagai_R.F,09-12-2024
+NMKTIRVAI26,0.0,Nagarpalayam,11.41574,78.08295,Namakkal,Tiruchengode,Vaiyappamalai,09-12-2024
+VNRVIRVIR38,0.0,Chinnamoopanpatti,9.60068,77.95321,Virudhunagar,Virudhunagar,Virudhunagar,09-12-2024
+PDKVIRVIR46,0.0,Boothakudi,10.64823,78.57021,Pudukkottai,Viralimalai,Viralimalai,09-12-2024
+TVRTHIKUN8,0.0,Thaplampuliyur 2,10.73634,79.65783,Thiruvarur,Thiruvarur,Kunniyur,09-12-2024
+ARIANDKOV8,0.0,Irumbilikurichi,11.19529,79.22242,Ariyalur,Sendurai,Ponparappi,09-12-2024
+KGIANCANC6,0.0,Nattrampalayam,12.25128,77.73667,Krishnagiri,Anchetty,Anchetty,09-12-2024
+THNTHETHE21,0.0,Govindanagaram,10.00458,77.48886,Theni,Theni,Theni,09-12-2024
+RMDTHIPUL27,0.0,Pullur,9.835438,79.02903,Ramanathapuram,Thiruvadani,Pullur,09-12-2024
+KARPUGPUG24,0.0,Punjai Pugalur (North),11.07066,77.9994,Karur,Pugalur,Pugalur,09-12-2024
+TKSKADKAD9,0.0,Kadayanallur,9.070302,77.34612,Tenkasi,Kadayanallur,Kadayanallur,09-12-2024
+ERDSATARA8,0.0,Senbagapudur (B),11.45048,77.21485,Erode,Sathyamangalam,Arasur,09-12-2024
+RMDMUDMEL18,0.0,Melakudmaloor,9.484855,78.47016,Ramanathapuram,Mudukulathur,Melakodumalur,09-12-2024
+KPMWALMAG6,0.0,Magaral,12.71853,79.75405,Kancheepuram,Walajabad,Magaral,09-12-2024
+TKSTHIPAZ24,0.0,Pazhankottai,9.13484,77.69293,Tenkasi,Thiruvengadam,Pazhankottai,09-12-2024
+KALKAVKAL12,0.4,Serapattu,11.97515,78.77509,Kallakurichi,Kalvarayan hills,Kalvarayan hills,09-12-2024
+KGISHOUTH48,0.0,Addakurukki,12.68903,77.95204,Krishnagiri,Shoolagiri,Uthanapalli,09-12-2024
+TVMVANMAZ19,0.0,Mazhaiyur,12.49127,79.46255,Tiruvannamalai,Vandavasi,Mazhaiyur,09-12-2024
+NLGUDHUDA29,0.0,Ebbanad,11.54904,76.75865,Nilgiris,Udhagai,Udhagai_R.F,09-12-2024
+TNJBUDAGA3,0.4,Agarapettai,10.84546,78.90886,Thanjavur,Budalur,Agarappettai,09-12-2024
+ERDTHATAL40,0.0,Thiginarai,11.71999,76.96429,Erode,Thalavadi,Talavadi,09-12-2024
+TNVAMBAMB2,0.0,Vikramasingapuram Part - Ii,8.71489,77.36066,Tirunelveli,Ambasamudram,Ambasamudram,09-12-2024
+TVMARNARN3,0.0,Arani,12.67133,79.28085,Tiruvannamalai,Arni,Arni,09-12-2024
+TPRKANKAN49,0.0,Kangeyam,11.09381,77.50912,Tiruppur,Kangeyam,Kangeyam,09-12-2024
+ERDMODAVA24,0.0,Aval Poondurai A,11.23195,77.70455,Erode,,Aval poondurai,09-12-2024
+TKSSANSER22,0.0,Kalappakulam,9.100555,77.48644,Tenkasi,Sankarankovil,Sernthamangalam,09-12-2024
+SVGSIVTHA37,0.8,Mudikandam,9.876601,78.39441,Sivagangai,Sivagangai,Thamarakki,09-12-2024
+CGLCHYLAT10,0.0,Pavunjur,12.44558,80.00582,Chengalpattu,Cheyyur,Lathur,09-12-2024
+KPMUTHKUN4,0.0,Kunnavakkam,12.65809,79.80842,Kancheepuram,Uthiramerur,Kunnavakkam,09-12-2024
+KGIHOSHOS16,0.0,Nallur Pups,12.78953,77.83263,Krishnagiri,Hosur,Hosur,09-12-2024
+KALCHICHI3,0.0,Chinna Salem,11.63212,78.86773,Kallakurichi,Chinnaselam,Chinnasalem,09-12-2024
+KKMTHIKUL20,0.0,Paraliyaru,8.339793,77.37519,Kanniyakumari,Thiruvattar,Kulasekaram,09-12-2024
+KARPUGKPA7,0.0,Nedungur,10.95143,77.93574,Karur,Pugalur,K paramathi,09-12-2024
+CUDCUDMAN9,0.0,Kayalpattu,11.58595,79.75535,Cuddalore,Cuddalore,Manjakkuppam,09-12-2024
+CBEPERTHO41,0.0,Vellimalaipattinam,10.99923,76.78469,Coimbatore,Perur,Thondamuthur,09-12-2024
+TUTVILKAD10,0.0,Madhalapuram,9.274813,78.21971,Thoothukudi,Vilathikulam,Kadalkudi,09-12-2024
+TKSKADKAD11,0.0,Chockampatti,9.12941,77.36398,Tenkasi,Kadayanallur,Kadayanallur,09-12-2024
+RMDTHITHO42,1.6,Karugalakudi,9.769139,78.99428,Ramanathapuram,Thiruvadani,Thondi,09-12-2024
+VELVELPEN15,0.0,Thuthipet,12.85645,79.12252,Vellore,Vellore,Pennathur,09-12-2024
+TKSSIVCUD5,0.0,Guddalor,9.275009,77.45764,Tenkasi,Sivagiri,Cuddalor,09-12-2024
+TNVRADLEV12,0.0,Karungulam,8.174739,77.57616,Tirunelveli,Radhapuram,Levinjipuram,09-12-2024
+CBEVALVAL50,0.0,Valparai,10.28275,76.98303,Coimbatore,Valparai,Valparai_R.F,09-12-2024
+TRYMNNMAN20,0.0,Irungalur,10.9381,78.75867,Thiruchirappalli,Mannachanallur,Mannachanallur,09-12-2024
+KGISHOSHO29,0.0,Shoolagiri,12.66067,78.01507,Krishnagiri,,Shoolagiri,09-12-2024
+RPTARAARA1,0.0,Arakkonam,13.10782,79.68796,Ranipet,Arakkonam,Arakkonam (North),09-12-2024
+PDKGANGAN6,0.0,Sothupalai,10.5617,78.96798,Pudukkottai,Gandarvakottai,Gandarvakottai,09-12-2024
+TVMVEMNAT26,0.0,Natteri,12.81525,79.51229,Tiruvannamalai,Vembakkam,Natteri,09-12-2024
+SVGKARKAL4,0.0,Vetriyur,9.915278,78.67077,Sivagangai,Karaikudi,Kallal,09-12-2024
+VNRTIRTIR35,0.0,Tiruchuli,9.536832,78.19782,Virudhunagar,Tiruchuli,Tiruchuli,09-12-2024
+KALKALKAL11,0.0,Kallakurichi,11.74094,78.96514,Kallakurichi,Kallakurichi,Kallakurichi,09-12-2024
+VNRKARKAR8,2.8,Aviyur,9.745957,78.09442,Virudhunagar,Kariyapatti,Kariapatti,09-12-2024
+TNVNANNAN22,0.0,South Nanguneri,8.491926,77.64628,Tirunelveli,Nanguneri,Nanguneri,09-12-2024
+VELANAAGA1,0.0,Melpallipattu,12.73805,78.82981,Vellore,Anaicut,Agaram,09-12-2024
+NLGUDHUDH34,0.0,Nanjanad 2,11.39039,76.64399,Nilgiris,Udhagai,Udhagai Town,09-12-2024
+CBEVALVAL51,0.0,Valparai,10.29814,77.02362,Coimbatore,Valparai,Valparai_R.F,09-12-2024
+DPIPAPBOM3,0.0,Kethureddipatti,12.01855,78.29597,Dharmapuri,Pappireddipatti,Bommidi,09-12-2024
+TRYMARVAL48,1.6,Thottiyapatty,10.511,78.48428,Thiruchirappalli,Marungapuri,Valanadu,09-12-2024
+ERDSATGUT17,0.0,Iruddipalayam,11.66168,77.28101,Erode,Sathyamangalam,Guthiyalathur,09-12-2024
+CBEANAANA48,0.0,Vettaikararanpudur (Sethumadai),10.51113,76.8793,Coimbatore,Anaimalai,Anaimalai,09-12-2024
+VPMVIKSIT36,0.0,Radhapuram,11.99983,79.58879,Villupuram,Vikkiravandi,Sithalampattu,09-12-2024
+TNVRADVAL37,0.0,Valliyoor,8.38696,77.61189,Tirunelveli,Radhapuram,Valliyoor,09-12-2024
+DPINALPAL22,0.0,Thoppur,11.94215,78.06999,Dharmapuri,Nallampalli,Palayam,09-12-2024
+VNRTIRTIR97,0.0,Tiruchuli,9.538588,78.20189,Virudhunagar,,Tiruchuli,09-12-2024
+PDKVIRVIR45,0.8,Viralimalai,10.60906,78.54905,Pudukkottai,Viralimalai,Viralimalai,09-12-2024
+DGLGUJKOT27,0.0,Kottanatham,10.74858,78.09312,Dindigul,Gujiliamparai,Kottanatham,09-12-2024
+DPIKARKAR10,0.0,Karimangalam,12.29539,78.19879,Dharmapuri,Karimangalam,Karimangalam,09-12-2024
+KKMKALTHU18,0.0,Kumarapuram,8.302695,77.31829,Kanniyakumari,Kalkulam,Thuckalay,09-12-2024
+RMDPARNAI53,0.0,Vaniyavalam,9.546576,78.69121,Ramanathapuram,,Nainarkovil,09-12-2024
+TNVTHIVIJ42,0.0,Ittamozhi,8.393831,77.8461,Tirunelveli,Thisayanvilai,Vijayanarayanam,09-12-2024
+TKSSHEPAN18,0.0,Ponpoli,9.02597,77.24463,Tenkasi,Shencottai,Panpoli,09-12-2024
+KALULUELA4,0.0,Elavanasur Kottai,11.71425,79.18547,Kallakurichi,Ulundurpet,Elavanasurkottai,09-12-2024
+CHN11Z150W30,0.0,Porur,13.04075,80.1466,Tiruvallur,Poonamallee,Vanagaram,09-12-2024
+TUTTHOPUD29,0.0,Puthukottai,8.743862,78.05014,Thoothukudi,Thoothukudi,Puducottai,09-12-2024
+TVMVANOSU28,0.0,Osur,12.43807,79.66135,Tiruvannamalai,Vandavasi,Osur,09-12-2024
+TVMCHYTHE50,0.0,Vaachanur,12.59061,79.66118,Tiruvannamalai,Cheyyar,Thethurai,09-12-2024
+RMDPARKIL13,0.0,Kiliyur,9.480483,78.76878,Ramanathapuram,Paramakudi,Kiliyur,09-12-2024
+SLMATTMAL25,0.0,Thandavarayapuram,11.58878,78.56095,Salem,Attur,Malliyakarai,09-12-2024
+CBECOMPER28,0.0,Periyanaickanpalayam,11.1534,76.94698,Coimbatore,Coimbatore (North),Perianaickenpalayam,09-12-2024
+KGISHOUTH50,0.0,Samanapalli,12.58679,78.01725,Krishnagiri,Shoolagiri,Uthanapalli,09-12-2024
+DPIHARTHE42,0.0,Periyapatti,12.09543,78.70829,Dharmapuri,Harur,Theerthamalai,09-12-2024
+VNRKARKAL7,1.6,Kalkurichi,9.60271,78.09559,Virudhunagar,Kariyapatti,Kalkurichi,09-12-2024
+CBEVALVAL52,0.0,Valparai,10.26808,76.98917,Coimbatore,Valparai,Valparai_R.F,09-12-2024
+CBEMADMAD20,0.0,Madukkarai,10.90471,76.96205,Coimbatore,Madukarai,Madukarai,09-12-2024
+MDUVADPAL16,0.0,Palamedu,10.10196,78.11111,Madurai,Vadipatti,Palamedu,09-12-2024
+TNVCHEPAP26,0.0,Pappakudi,8.750722,77.50092,Tirunelveli,Cheranmahadevi,Pappakudi,09-12-2024
+KARMANMAN14,0.0,Manmangalam,11.02658,78.05257,Karur,Manmangalam,Manmangalam,09-12-2024
+VPMVANVAN50,0.0,Mathur,12.04469,79.83668,Villupuram,Vanur,Vanur,09-12-2024
+RMDKAMPER24,0.0,Perunali,9.237195,78.31853,Ramanathapuram,Kamuthi,Perunali,09-12-2024
+DGLNILORU33,0.0,Mattaparai,10.09316,77.91331,Dindigul,Nilakottai,Oruthattu,09-12-2024
+KGIDENAND8,0.0,Andevanapalli,12.46134,77.76253,Krishnagiri,Denkanikottai,Andevanapalli,09-12-2024
+TRYTHOKAT14,0.0,Unniyur,11.00106,78.17547,Thiruchirappalli,Thottiam,Kattuputhur,09-12-2024
+TUTTIRUDA43,0.0,Manapadu,8.374022,78.05499,Thoothukudi,Tiruchendur,Udangudi,09-12-2024
+VPMTINVAD45,0.0,Vadasiruvalur,12.32807,79.58278,Villupuram,Tindivanam,Vadasiruvalur,09-12-2024
+SVGKALNAT16,0.0,Mudikkarai,9.795197,78.59836,Sivagangai,Kalaiyarkovil,Natarasankottai,09-12-2024
+TUTETTCHO6,0.0,Cholapuram,9.051523,78.02542,Thoothukudi,Ettayapuram,Cholapuram,09-12-2024
+DPIDHADHA4,0.0,Vellalapatti,12.18376,78.21284,Dharmapuri,Dharmapuri,Dharmapuri,09-12-2024
+VPMTINVAD46,0.0,Melpakkam,12.28328,79.66084,Villupuram,Tindivanam,Vadasiruvalur,09-12-2024
+SVGDEVSAR27,0.0,Marani,9.85179,78.74422,Sivagangai,Devakottai,Sarugani,09-12-2024
+DGLNATSEN51,0.0,Kodangipatti,10.36992,78.24803,Dindigul,Natham,Sendurai,09-12-2024
+ERDANTAMM1,0.0,Komarayanur,11.733,77.68848,Erode,Anthiyur,Ammapettai,09-12-2024
+TPTAMBAMB4,0.0,Nachiyarkuppam,12.73497,78.71169,Tirupathur,Ambur,Ambur,09-12-2024
+MYDKUTPAA6,0.0,Palaiyur,10.99399,79.56338,Mayiladuthurai,Kuthalam,Paalaiyur,09-12-2024
+MDUMAUNAG13,0.0,Nagamalai Pudukottai,9.932658,78.04571,Madurai,Madurai (West),Nagamalai Pudukottai,09-12-2024
+RMDKADSTH36,0.0,S.Tharaikudi,9.158091,78.3771,Ramanathapuram,Kadaladi,S.Tharaikudi,09-12-2024
+MDUKALKUR8,0.0,Kalligudi,9.694611,77.97114,Madurai,Kalligudi,Kuraiyur,09-12-2024
+PDKILLVEE42,0.0,Veerappatti,10.4835,78.65891,Pudukkottai,Illupur,Veerappatti,09-12-2024
+DGLDINDIN11,0.0,Sirumalai,10.24054,78.0015,Dindigul,Dindigul (East),Dindigul (East),09-12-2024
+PDKPUDVAR41,0.0,Perungalur,10.49152,78.93216,Pudukkottai,Pudukkottai,Varappur,09-12-2024
+CHN10Z128W33,0.0,Virugambakkam,13.05279,80.19667,Chennai,Kodambakkam,Ward 128 (Virugambakkam),09-12-2024
+SLMSANTHE47,0.0,Koneripatty Agraharam,11.5829,77.76774,Salem,Sankari,Thevoor,09-12-2024
+RMDPARMAN17,0.0,Manjur,9.460586,78.64803,Ramanathapuram,Paramakudi,Manjur,09-12-2024
+CGLCHYSIT26,0.0,Chithamur,12.4089,79.89086,Chengalpattu,Cheyyur,Sithamoor,09-12-2024
+KALVANVAD29,0.0,L.N. Patti,11.99751,78.86636,Kallakurichi,Vanapuram,Vadaponparppi,09-12-2024
+MDUKALSIV24,0.0,Koodakovil,9.763306,78.07599,Madurai,Kalligudi,Sivarakkottai,09-12-2024
+MDUTIRPAN18,0.0,Pannikundu,9.852251,77.89641,Madurai,Tirumangalam,Pannikundu,09-12-2024
+ERDPERCHE12,0.0,Kodumanal,11.092885,77.507298,Erode,Perundurai,Chennimalai,09-12-2024
+PMBVEPVAL13,0.0,Valikandapuram,11.31614,78.91889,Salem,Thalaivasal,Thalaivasal_R.F,09-12-2024
+SLMKADSEM42,0.0,Konakapadi,11.88692,78.04016,Salem,Kadayampatti,Semmandapatti,09-12-2024
+TVMARNSVN37,0.0,S.V.Nagaram,12.67604,79.31346,Tiruvannamalai,Arni,S.V.Nagaram,09-12-2024
+SLMMETKOL20,0.0,Alamarathupatti,11.84231,77.74821,Salem,Mettur,Kolathur,09-12-2024
+TKSTHIKAR13,0.0,Azagapuri,9.21801,77.61509,Tenkasi,Thiruvengadam,Karisalkulam,09-12-2024
+ARIARINAG11,0.0,Vikramangalam,11.0439,79.22921,Ariyalur,Udayarpalayam,Suthamaalli,09-12-2024
+DGLODDPUL44,0.0,Idaiyakottaii,10.61807,77.84378,Dindigul,Oddenchatram,Puliurnatam,09-12-2024
+NGPVEDVED13,0.0,Thopputhurai,10.38647,79.84894,Nagapattinam,Vedaranyam,Vedaranyam,09-12-2024
+DGLVEDVAD55,0.0,Vadamadurai,10.43706,78.1013,Dindigul,Vedasandur,Vadamadurai,09-12-2024
+PDKILLILL8,0.0,Irundirappatti,10.53877,78.64231,Pudukkottai,Illupur,Illupur,09-12-2024
+TPTTIRAND5,0.0,Andiypanur,12.53663,78.6966,Tirupathur,Tirupattur,Andiyappanur,09-12-2024
+TUTVILVIL49,0.0,Kuralayampatti,9.115329,78.20368,Thoothukudi,Vilathikulam,Vilathikulam,09-12-2024
+KGIDENRAY36,0.0,U.Kothapalli,12.55041,77.93762,Krishnagiri,Denkanikottai,Rayakottai,09-12-2024
+CGLMADPER24,0.0,Perumbakkam,12.51361,79.8089,Chengalpattu,Madhurantakam,Perumpakkam,09-12-2024
+TPRKANVEL46,0.0,Thambiredipalayam,10.95706,77.64449,Tiruppur,Kangeyam,Vellakoil,09-12-2024
+TVRVALAAV23,0.0,Aavoor,10.9013,79.32983,Thiruvarur,Valangaiman,Aavur,09-12-2024
+NMKTIRMOL11,0.0,Chithalandur,11.31422,77.92428,Namakkal,Tiruchengode,Molasi,09-12-2024
+TPTTIRJOL7,0.0,Jolarpettai,12.58486,78.64537,Tirupathur,Tirupattur,Jolarpet,09-12-2024
+ARISENMAT9,0.0,Kuvagam,11.28252,79.28227,Ariyalur,Andimadam,Kovagam,09-12-2024
+THNUTHTHE23,0.0,Pannaipuram,9.86542,77.28393,Theni,Uthamapalayam,Thevaram,09-12-2024
+TKSSIVVAS35,0.4,Naranapuram,9.269354,77.4034,Tenkasi,Sivagiri,Vasudevanallur,09-12-2024
+KGIKRIALA3,4.4,Alapatti,12.49672,78.10142,Krishnagiri,Krishnagiri,Alapatti,09-12-2024
+SLMEDAKON60,0.0,Konganapuram,11.60344,77.90335,Salem,,Konganapuram,09-12-2024
+SLMOMAKAR17,0.0,Karupur,11.71412,78.08921,Salem,Omalur,Karupur,09-12-2024
+TKSTENKAD7,0.0,Alwarkurichi - 2,8.785758,77.37891,Tenkasi,Tenkasi,Kadayam,09-12-2024
+KALULUTHI24,0.0,Senjikupam,11.76281,79.3812,Kallakurichi,Ulundurpet,Thirunavalur,09-12-2024
+VPMVANNEM28,0.0,Nemili,12.05468,79.65214,Villupuram,Vanur,Nemili,09-12-2024
+DGLNATRED45,0.0,Reddiyapatti,10.15407,78.19677,Dindigul,Natham,Reddiapatti,09-12-2024
+VNRSATPAD25,0.0,Chinnakamanpatti,9.412553,77.86825,Virudhunagar,Sattur,Padanthal,09-12-2024
+DGLODDCHI7,0.0,I. Vadipatty,10.61531,77.74962,Dindigul,Oddenchatram,Chinnakkampatti,09-12-2024
+KKMTHOBOO3,0.0,Boothapandy,8.262216,77.44902,Kanniyakumari,Thovalai,Boothapandi,09-12-2024
+TVMJAMNAM24,0.0,Nammiyampattu,12.67593,78.989,Tiruvannamalai,Jamunamarathoor,Nammiyempattu,09-12-2024
+KGIDENDEN14,0.0,Thadikkal,12.47153,77.87586,Krishnagiri,Denkanikottai,Denkanikottai,09-12-2024
+NGPKILTHE1,0.0,Thevur,10.727,79.73004,Nagapattinam,Kilvelur,Thevur,09-12-2024
+KGIDENTHA44,0.0,Madhakondapalli,12.628,77.73119,Krishnagiri,Denkanikottai,Thalli,09-12-2024
+PMBALAKOO7,0.0,Koothur,11.15435,79.00694,Perambalur,Alathur,Koothur,09-12-2024
+DPIPALMAR15,0.0,Gummanur,12.44892,78.01603,Dharmapuri,Palacode,Marandahalli,09-12-2024
+KALTIRTIR27,0.0,Tirukoilur,11.95749,79.19225,Kallakurichi,Tirukkoilur,Tirukkoilur,09-12-2024
+VPMKANMUG25,0.0,Kandachipuram,12.03518,79.30654,Villupuram,Kandachipuram,Mugaiyur,09-12-2024
+TRYLALLAL2,0.0,Adikudi,10.87184,78.86035,Thiruchirappalli,Lalgudi,Lalgudi,09-12-2024
+THNAUNAUN1,0.0,Thimmarasanayakkanur Bit 1,10.00017,77.67639,Theni,Aundipatti,Aundipatti,09-12-2024
+SVGSIVOKK20,0.0,Melachalur,9.932056,78.45629,Sivagangai,Sivagangai,Okkur,09-12-2024
+KKMTHIKUL22,0.0,Manalodai,8.354218,77.32954,Kanniyakumari,Thiruvattar,Kulasekaram,09-12-2024
+TVMCHNMEL21,0.0,Elangunni,12.13651,78.68367,Tiruvannamalai,Chengam,Melpallipattu,09-12-2024
+SVGTHITHI41,0.0,Thiruppachethi (North),9.785248,78.35092,Sivagangai,Thiruppuvanam,Thiruppachetthi,09-12-2024
+VNRSRIMAL12,0.0,Malli,9.495356,77.69075,Virudhunagar,Srivlliputhur,Malli,09-12-2024
+TNJORATIR30,0.0,Thirumangalakkottai Malaiyur,10.58814,79.3246,Thanjavur,Orathanad,Tirumangalakkottai,09-12-2024
+CBEANNANN3,0.0,Kanjampalli,11.23285,77.14279,Coimbatore,Annur,Annur (North),09-12-2024
+DPIPAPBOM1,0.0,B.Mallapuram,11.98179,78.24976,Dharmapuri,Pappireddipatti,Bommidi,09-12-2024
+DGLODDODD32,0.0,Virupatchi,10.46675,77.69805,Dindigul,Oddenchatram,Oddenchatram,09-12-2024
+DPIHARMOR18,0.8,M.Vellampatti,12.16002,78.43462,Dharmapuri,Harur,Morappur,09-12-2024
+CHN08Z107W31,0.0,Chetpet,13.06938,80.2441,Chennai,Anna Nagar,Ward 107(Anna Nagar),09-12-2024
+SLMMETNAN28,0.0,Vanavasi,11.73309,77.86629,Salem,Mettur,Nangavalli,09-12-2024
+KGIDENKEL22,0.0,Denkanikottai,12.60518,77.8616,Krishnagiri,Denkanikottai,Kelamangalam,09-12-2024
+TUTTIRTIR40,0.0,Mela Tiruchendur,8.48826,78.06833,Thoothukudi,Tiruchendur,Tiruchendur,09-12-2024
+DPINALPAL21,0.0,Palayam,12.01394,78.09537,Dharmapuri,Nallampalli,Palayam,09-12-2024
+TUTVILPUD30,0.0,Kavundanpatti,9.232725,78.13728,Thoothukudi,Vilathikulam,Pudur,09-12-2024
+RMDKAMABI2,0.0,Abiramam,9.44791,78.4421,Ramanathapuram,Kamuthi,Abiramam,09-12-2024
+THNBODKOD13,0.0,Uppukottai,9.958038,77.40972,Theni,Bodinayakanur,Kodangipatti,09-12-2024
+DGLDIDPAL38,0.0,Palakanuthu,10.4733,77.79275,Dindigul,Dindigul (West),Pallaganuthu,09-12-2024
+KKMTHIKUL8,0.0,Thumbacode B,8.393905,77.29885,Kanniyakumari,Thiruvattar,Kulasekaram,09-12-2024
+TLRUTHVEL30,0.0,Velagapuram,13.28663,79.93762,Tiruvallur,Uthukottai,Velagapuram,09-12-2024
+NGPKILVEI2,0.0,Velankanni,10.6813,79.85176,Nagapattinam,Kilvelur,Veilankanni,09-12-2024
+TKSVKPKAR15,0.0,Navaneethakrishnapuram,9.010551,77.51327,Tenkasi,V.k.pudur,Karuvantha,09-12-2024
+TKSKADPUL20,0.0,T.N.Pudukudi,9.173077,77.39549,Tenkasi,Kadayanallur,Puliangudi,09-12-2024
+TKSALAALA1,0.0,Maranthai,8.822478,77.56545,Tenkasi,Alangulam,Alangulam,09-12-2024
+KGIKRIKRI23,4.0,Naralpalli,12.62423,78.25263,Krishnagiri,Krishnagiri,Krishnagiri,09-12-2024
+KGIPOCMAT27,0.0,Sonarhalli,12.37297,78.43955,Krishnagiri,Pochampalli,Mathur,09-12-2024
+PDKARAPOO32,0.0,Maramaddakki,10.29039,79.00934,Pudukkottai,Aranthangi,Poovathakudi,09-12-2024
+KGIANCURI45,0.0,Kottaiyur,12.2982,77.61939,Krishnagiri,Anchetty,Urigam,09-12-2024
+THNAUNRAJ18,1.2000000000000002,Balakombai,9.903959,77.61915,Theni,Aundipatti,Rajathani,09-12-2024
+SLMYERPUT38,2.8,Kombuthukki,11.85295,78.30093,Salem,Yercaud,Puthur,09-12-2024
+SLMGANGAN8,0.0,Belur,11.42329,78.57275,Salem,Ganagavalli,Gangavalli,09-12-2024
+ERDSATGUT18,0.0,Gundri,11.67138,77.40393,Erode,Sathyamangalam,Guthiyalathur,09-12-2024
+TKSKADKAA31,0.0,Chokkampatti,9.1344,77.2994,Tenkasi,Kadayanallur,Kadayanallur_R.F,09-12-2024
+SVGTHRTHR40,0.0,Thiruppathur,10.11252,78.59607,Sivagangai,Thirupattur,Thirupattur,09-12-2024
+TNVRADPAN25,0.0,Mahendragiri,8.28918,77.55651,Tirunelveli,Radhapuram,Panagudi,09-12-2024
+KARKRIKAT10,0.0,Krishnarayapuram (North),10.95832,78.27044,Karur,Krishnarayapuram,Kattalai,09-12-2024
+KGIANCANC7,0.0,Biligundu,12.18591,77.7319,Krishnagiri,Anchetty,Anchetty,09-12-2024
+SVGSINSIN31,0.0,Vaiyapuripatti,10.2107,78.46149,Sivagangai,Singampunari,Singampunari,09-12-2024
+RMDRAMPER25,0.0,Therpogi,9.392257,78.92784,Ramanathapuram,Ramanathapuram,Perungulam,09-12-2024
+VNRRAJSEI32,0.4,Sundaramrajapuram,9.431627,77.49667,Virudhunagar,Rajapalayam,Seithur,09-12-2024
+VPMVIKVIK99,0.0,Vikkiravandi,12.04117,79.54407,Villupuram,,Vikkiravandi,09-12-2024
+KKMVILARU26,0.0,Sivalogam,8.430278,77.24883,Kanniyakumari,Vilavancode,Arumanai,09-12-2024
+PDKKULKIL14,0.0,Killukottai,10.65621,78.91635,Pudukkottai,Kulathur,Killukkottai,09-12-2024
+SVGKALSIL30,0.0,Sethur,9.69035,78.67505,Sivagangai,Kalaiyarkovil,Silukkapatti,09-12-2024
+SLMGANGAN10,0.0,Naduvalur (North),11.52851,78.65127,Salem,Ganagavalli,Gangavalli,09-12-2024
+RMDRAJRSM30,0.0,Sanaveli,9.684813,78.87171,Ramanathapuram,Rajasingamangalam,R.S.mangalam,09-12-2024
+DPIHARHAR5,0.0,Mampatti,12.16842,78.54419,Dharmapuri,Harur,Harur,09-12-2024
+SVGTHRNAC13,0.0,Nachiyapuram,10.0808,78.6717,Sivagangai,Thirupattur,Nachiyapuram,09-12-2024
+SLMATTATT2,0.0,Appammasamuthiran,11.61481,78.58481,Salem,Attur,Attur,09-12-2024
+DPIPALMAR14,0.0,Namandahalli,12.45694,77.97031,Dharmapuri,Palacode,Marandahalli,09-12-2024
+VPMVILKAN14,0.0,Kanai,11.95572,79.41837,Villupuram,Villupuram,Kanai,09-12-2024
+RMDKEETHI38,0.0,Kanjirankudi,9.285335,78.82504,Ramanathapuram,Keelakarai,Thirupullani,09-12-2024
+ARIANDKOV7,0.0,Kattathur (North),11.30068,79.34013,Ariyalur,Andimadam,Kovagam,09-12-2024
+SVGDEVKAK7,0.0,Kandiyur,9.94265,78.94063,Sivagangai,Devakottai,Kannankudi,09-12-2024
+CGLMADMAD12,0.0,Kavathur,12.4959,79.95175,Chengalpattu,Madhurantakam,Madhurantakam,09-12-2024
+PDKARAARS3,0.0,Arasarkulam Melpathi,10.19783,79.09868,Pudukkottai,Aranthangi,Arasarkulam,09-12-2024
+TRYLALKAL8,0.0,Kallakudi,10.97957,78.95152,Thiruchirappalli,Lalgudi,Kallakkudi,09-12-2024
+VNRWATKOT41,0.0,Maharajapuram,9.701462,77.63484,Virudhunagar,Watrap,Kottaiyur,09-12-2024
+TNJPERPEU18,0.0,Perumagalur Vadapathy,10.19625,79.19594,Thanjavur,Peravurani,Perumagalur,09-12-2024
+DGLODDCHI6,0.0,Odaipatty,10.58432,77.77793,Dindigul,Oddenchatram,Chinnakkampatti,09-12-2024
+CUDPANMAR12,0.0,Perperiyankuppam,11.65772,79.48048,Cuddalore,Panruti,Marungur,09-12-2024
+TLRGUMMAD14,0.0,Karadipudhar,13.36467,79.96571,Tiruvallur,Gummidipoondi,Madharpakkam,09-12-2024
+DPIPALPAL20,0.0,Thirumalvadi,12.31523,77.92414,Dharmapuri,Palacode,Palacode,09-12-2024
+RMDPARPAT23,0.0,Parthibanur,9.608237,78.45276,Ramanathapuram,Paramakudi,Parthibanur,09-12-2024
+NGPKILKIL41,0.0,Kilvelur,10.77158,79.74701,Nagapattinam,,Kilvelur,09-12-2024
+KGIKRIALA2,0.0,Jinjupalli,12.56085,78.14761,Krishnagiri,Krishnagiri,Alapatti,09-12-2024
+DPIHARTHE39,0.0,Sitlingi,11.98744,78.668,Dharmapuri,Harur,Theerthamalai,09-12-2024
+CBEPOLPOL31,0.0,Pollachi (North),10.66339,77.00323,Coimbatore,Pollachi,Pollachi (North),09-12-2024
+CHN02Z019W10,0.0,Mathur,13.17201,80.25029,Chennai,Manali,Ward 19 (Mmda Mathur),09-12-2024
+KKMKALCOL5,0.0,Colachel B,8.175481,77.25791,Kanniyakumari,Kalkulam,Colachel,09-12-2024
+CUDKURKUL6,0.8,Therthanagiri,11.56905,79.67869,Cuddalore,Kurinjipadi,Kullanchavadi,09-12-2024
+CBEKINKIN6,0.0,Kinathukadavu,10.81389,77.01887,Coimbatore,,Kinathukadavu,09-12-2024
+TLRPALPAL18,0.0,Podathurpettai,13.33197,79.43933,Tiruvallur,Pallipattu,Pallipattu,09-12-2024
+SVGKALSIL29,0.0,Silukkapatti,9.776378,78.69166,Sivagangai,Kalaiyarkovil,Silukkapatti,09-12-2024
+MDUPERATH1,0.0,Saptur,9.772146,77.73703,Madurai,Peraiyur,Athipatti,09-12-2024
+RMDTHIMAN16,0.0,Mangalakudi,9.863995,78.96548,Ramanathapuram,Thiruvadani,Mangalagudi,09-12-2024
+TUTTHOTHO38,0.0,Thoothukudi Ii,8.803451,78.1351,Thoothukudi,Thoothukudi,Thoothukudi,09-12-2024
+TRYSRIKUL17,0.0,Koppu (South),10.78597,78.57532,Thiruchirappalli,Srirangam,Kulumani,09-12-2024
+TVMCHEKOL17,0.0,Periya Kozhappalur,12.55493,79.34643,Tiruvannamalai,Chetpet,Kolappalur,09-12-2024
+CBEVALVAL47,0.0,Pollachi,10.32396,76.95473,Coimbatore,Valparai,Valparai,09-12-2024
+RMDRAMMAN54,0.0,Mandapam,9.2806,79.1431,Ramanathapuram,,Mandapam,09-12-2024
+KKMKALCOL4,0.0,Kallukootam,8.188603,77.28817,Kanniyakumari,Kalkulam,Colachel,09-12-2024
+TUTTHOTHO39,0.0,Mappillaiyurani,8.835647,78.14519,Thoothukudi,Thoothukudi,Thoothukudi,09-12-2024
+KPMKANSIR9,0.0,Kottavakkam,12.95296,79.72368,Kancheepuram,Kancheepuram,Govindavadi,09-12-2024
+SVGMANMAN11,0.0,Vediyarenthal,9.638964,78.47976,Sivagangai,Manamadurai,Manamadurai,09-12-2024
+SLMSANERN7,0.0,Selliyampalayam,11.55819,78.01086,Salem,Sankari,Ernapuram,09-12-2024
+CHN15Z198W51,0.0,Chemmanchery_1,12.8773,80.22729,Chennai,Sholinganallur,Ward 198 (Sholinganallur),09-12-2024
+TPRUDUPER28,0.0,Dhali 2,10.48795,77.15432,Tiruppur,Udumalpet,Periavalavadi,09-12-2024
+KARARAPAL19,0.0,Santhapadi,10.76025,77.81985,Karur,Aravakurichi,Pallapatti,09-12-2024
+KALKALNAG16,0.8,Mudiyanur,11.70225,79.03586,Kallakurichi,Kallakurichi,Nagalur,09-12-2024
+THNAUNRAJ17,0.0,Kothapatti,9.935024,77.59451,Theni,Aundipatti,Rajathani,09-12-2024
+CUDTITTIT30,0.0,Vasistapuram,11.4003,79.12344,Cuddalore,Titagudi,Titagudi(East),09-12-2024
+CUDPANPAN18,0.0,Vadakailasam,11.7631,79.55418,Cuddalore,Panruti,Panruti,09-12-2024
+MDUTHITHI27,0.0,Nilaiyur,9.855447,78.05937,Madurai,Thirupparankundram,Thirupparankundram,09-12-2024
+CHN02Z017W8,0.0,Ariyalur,13.19182,80.25154,Chennai,Manali,Ward 17 (Vadaperumbakkam),09-12-2024
+VPMVILVIL53,0.0,Viluppuram,11.93187,79.48126,Villupuram,Villupuram,Viluppuram,09-12-2024
+TKSKADAYI32,0.0,Kallampuli,9.040993,77.4071,Tenkasi,Kadayanallur,Ayikudi,09-12-2024
+TNVNANKAL8,0.0,Pathai - Ii,8.542267,77.52363,Tirunelveli,Nanguneri,Kalakad,09-12-2024
+SVGKARKAL5,0.0,Aranmanai Siruvayal (North),9.958957,78.65683,Sivagangai,Karaikudi,Kallal,09-12-2024
+TVMTHAVAN55,0.0,Vanapuram,12.10879,79.02147,Tiruvannamalai,Thandrampet,Vanapuram,09-12-2024
+PMBALAKOL6,0.0,Kolakkanatham,11.11649,78.94891,Perambalur,Alathur,Kolakkanatham,09-12-2024
+TPRDHADHA5,0.0,Nallampalayam,10.73635,77.61583,Tiruppur,Dharapuram,Dharapuram,09-12-2024
+TVMTIRTHU51,0.0,Kalasthapadi,12.31873,79.08605,Tiruvannamalai,Tiruvannamalai,Thurinjapuram,09-12-2024
+TVMCHYVAK54,0.0,Vakkadai,12.62606,79.47151,Tiruvannamalai,Cheyyar,Vakkadai,09-12-2024
+VELKVKKVK8,0.0,Veppanganeri,12.95759,79.0012,Vellore,K v kuppam,K V Kuppam,09-12-2024
+CHN15Z195W49,0.0,Okkiyam Thoraipakkam,12.92952,80.23823,Chennai,Sholinganallur,Ward 195 (Sholinganallur),09-12-2024
+TRYTHRTHI31,0.0,Thirunedunkulam,10.77434,78.85262,Thiruchirappalli,Thiruverumbur,Thiruverambur,09-12-2024
+KARMANTHA25,0.0,Thalapatti,10.89172,78.02552,Karur,Manmangalam,Thalapatti,09-12-2024
+TKSSHESHE24,0.8,Poolankudiyiruppu,9.019132,77.2035,Tenkasi,Shencottai,Shencottai,09-12-2024
+TLRGUMGUM7,0.0,Gummidipoondi,13.41673,80.12933,Tiruvallur,Gummidipoondi,Gummidipoondi,09-12-2024
+RMDRAJANA3,0.0,Anandur,9.736393,78.77433,Ramanathapuram,Rajasingamangalam,Anandur,09-12-2024
+TPTNATNAT13,0.0,K Bandarapalli,12.56644,78.50226,Tirupathur,Natrampalli,Natrampalli,09-12-2024
+CHN07Z086W25,0.0,Athipet,13.09312,80.1591,Chennai,Ambattur,Ward 86 (Ambattur),09-12-2024
+PDKKARMAL21,0.0,Malaiyur,10.43005,79.02155,Pudukkottai,Gandarvakottai,Gandarvakottai_R.F,09-12-2024
+PDKGANGAN47,0.0,Kovilur,10.57053,79.00569,Pudukkottai,,Gandarvakottai,09-12-2024
+SLMVALBEL3,0.0,Belur,11.70486,78.41433,Salem,Valapady,Belur,09-12-2024
+TVMTIRVER58,0.0,Veraiyur,12.09288,79.13086,Tiruvannamalai,Tiruvannamalai,Veraiyur,09-12-2024
+KGIBARPAL29,0.0,Bur,12.5554,78.34879,Krishnagiri,Bargur,Bargur,09-12-2024
+MDUUSISIN22,0.0,Sinduupatti,9.898117,77.86442,Madurai,Usilampatti,Sindupatti,09-12-2024
+TVMPOLMAN18,0.0,Mandakolathur,12.52245,79.19699,Tiruvannamalai,Polur,Mandakolathur,09-12-2024
+SLMSASVEM67,0.0,Kadathur Agraha,11.57743,78.0403,Salem,,Vembadithalam,09-12-2024
+SLMSANSAK41,0.0,Vadugappatty,11.47639,77.9233,Salem,Sankari,Sankari (East),09-12-2024
+CUDPANNEL14,0.0,Nellikuppam Town,11.77913,79.66669,Cuddalore,Panruti,Nellikuppam,09-12-2024
+TRYMNNSIR29,0.0,Thirupanjeeli (North),10.93658,78.64243,Thiruchirappalli,Mannachanallur,Sirugambur,09-12-2024
+SVGSIVPER22,0.0,Kadaneri,9.961847,78.57435,Sivagangai,Sivagangai,Periyakottai,09-12-2024
+CBEKINKOV17,0.0,Solanur,10.72225,77.04242,Coimbatore,Kinathukadavu,Kovilpalayam,09-12-2024
+PDKGANKAL9,0.0,Kallakottai,10.52189,79.10991,Pudukkottai,Gandarvakottai,Kallakottai,09-12-2024
+ERDPERKAN19,0.0,Thiruvachi (Kanjikovil),11.3068,77.60285,Erode,Perundurai,Kanjikoil,09-12-2024
+CBEVALVAL53,0.0,Valparai,10.33031,76.95943,Coimbatore,Valparai,Valparai,09-12-2024
+NMKRASVEN30,0.0,Athanur,11.50176,78.15488,Namakkal,Rasipuram,Vennandur,09-12-2024
+NMKPARJED4,0.0,Vadakarai Aathur,11.13841,77.89203,Namakkal,Paramathi velur,Jedarpalayam,09-12-2024
+CBEMADKUR18,0.0,Vellalore,10.97455,77.02786,Coimbatore,Madukarai,Kurichy,09-12-2024
+CUDVRIVRI36,0.0,Erumanur,11.5452,79.29273,Cuddalore,Virudhachalam,Virudhachalam (North),09-12-2024
+CUDPANPAN17,0.0,Poongunam,11.7888,79.56045,Cuddalore,Panruti,Panruti,09-12-2024
+TNJPERPER16,0.0,Nattanikkottai,10.28522,79.20551,Thanjavur,Peravurani,Peravurani,09-12-2024
+NGPNAGTHI5,0.0,Thirukkannapuram,10.86719,79.69931,Nagapattinam,Nagapattinam,Thirukannapuram,09-12-2024
+TVMTIRTIR52,0.0,Tiruvannamalai,12.234,79.07632,Tiruvannamalai,Tiruvannamalai,Tiruvannamalai(North),09-12-2024
+TNJTHINAD13,0.0,Naducauvery (West),10.86214,79.04477,Thanjavur,Thiruvaiyaru,Naducauvery,09-12-2024
+VNRWATKOT9,0.0,Kottaiyur,9.651836,77.70156,Virudhunagar,Watrap,Kottaiyur,09-12-2024
+DGLNATNAT18,0.0,Samuthirapatti,10.21263,78.2896,Dindigul,,Natham,09-12-2024
+ARIANDAND1,0.0,Andimadam,11.33197,79.3552,Ariyalur,,Andimadam,09-12-2024
+ARIUDASUT16,0.0,Govindaputhur,11.02937,79.30003,Ariyalur,Udayarpalayam,Suthamaalli,09-12-2024
+MYDMAYPAT3,0.4,Thiruvalaputhur,11.20926,79.62768,Mayiladuthurai,Mayiladuthurai,Pattavarthi,09-12-2024
+TNVTHITIS35,0.0,Idayangudi,8.311638,77.88246,Tirunelveli,Thisayanvilai,Tisayanvilai,09-12-2024
+TNJBUDBUD4,0.0,Veeramarasampettai,10.7629,78.961,Thanjavur,Budalur,Budalur,09-12-2024
+THNBODBOD4,0.0,Bodinayakkanur,10.00335,77.35048,Theni,Bodinayakanur,Bodinayakanur,09-12-2024
+VPMTINMAI21,0.0,Mailam,12.12915,79.62033,Villupuram,Tindivanam,Mailam,09-12-2024
+TVMCHNCHE4,0.0,Chengam,12.31041,78.79301,Tiruvannamalai,Chengam,Chengam,09-12-2024
+TKSTENKAL12,0.0,Avudaiyanur,8.872212,77.38639,Tenkasi,Tenkasi,Kallurani,09-12-2024
+RMDKAMKAU9,0.0,Mandalamanickam,9.459814,78.33772,Ramanathapuram,Kamuthi,Kamuthi (West),09-12-2024
+ERDMODARA6,0.0,Arachalur,11.16321,77.70125,Erode,Modakkurichi,Arachalur,09-12-2024
+DGLATHCHI8,0.0,Ambathurai,10.2723,77.91707,Dindigul,Athoor,Chinnalapatti,09-12-2024
+MYDTHATHI40,0.0,Erukattanchery,11.02498,79.84049,Mayiladuthurai,,Thillaiyadi,09-12-2024
+VNRVIRVAT36,0.0,Vachakarapatti,9.473781,77.93136,Virudhunagar,Virudhunagar,Vatchakarapatti,09-12-2024
+KALKAVVEL33,0.0,Vellimalai,11.80175,78.70895,Kallakurichi,Kalvarayan hills,Vellimalai,09-12-2024
+TNJORAORA15,0.0,Palanputhur,10.60841,79.27295,Thanjavur,Orathanad,Orathanad,09-12-2024
+NLGKUNITH9,0.0,Ithalar,11.34238,76.63651,Nilgiris,Kundah,Ithalar,09-12-2024
+DPIPAPPAP28,0.0,Vattuvanahalli,12.18395,77.9658,Dharmapuri,Pappireddipatti,Pappireddipatti,09-12-2024
+ERDSATSAT32,0.0,Malayadipudur,11.51664,77.26341,Erode,Sathyamangalam,Sathyamangalam,09-12-2024
+MDUTIRTIR29,0.0,Thirumangalam,9.831875,77.98611,Madurai,Tirumangalam,Thirumangalam,09-12-2024
+TRYMANMAN18,0.0,Samuthiram,10.65401,78.49157,Thiruchirappalli,Manapparai,Manapparai,09-12-2024
+PDKAVUPON30,0.0,Vilanoor,10.02307,79.06544,Pudukkottai,Avudaiyarkoil,Ponpethi,09-12-2024
+TVRNEEKOR91,0.0,Pattur,10.78821,79.48036,Thiruvarur,,Koradacheri,09-12-2024
+MDUKALSIV23,0.0,Sivarakottai,9.742498,77.9819,Madurai,Kalligudi,Sivarakkottai,09-12-2024
+MDUMELMEL10,0.0,Melavalavu,10.11014,78.31126,Madurai,Melur,Melavalavu,09-12-2024
+ERDSATSAT29,0.0,Kadambur,11.62771,77.32988,Erode,Sathyamangalam,Guthiyalathur,09-12-2024
+TNVTHIVIJ41,0.0,Mannarpuram,8.371719,77.80953,Tirunelveli,Thisayanvilai,Vijayanarayanam,09-12-2024
+PMBKUNVAD12,0.0,Kilmatur (North),11.35832,79.09969,Perambalur,Kunnam,Vadakkalur,09-12-2024
+MDUMADSAT20,0.0,Sathamangalam,9.922196,78.15376,Madurai,Madurai (North),Sathamangalam,09-12-2024
+TVRMANTHA10,0.0,Thalayamangalam,10.59425,79.47666,Thiruvarur,Mannargudi,Thalayamanglam,09-12-2024
+MDUUSIUTH32,0.0,Utthappanaiyakanur,10.03627,77.79256,Madurai,Usilampatti,Uthappanayakanur,09-12-2024
+VNRRAJRAJ29,0.0,Ayankollankondan,9.459331,77.54526,Virudhunagar,Rajapalayam,Rajapalayam,09-12-2024
+VPMVILVAL47,0.0,Valavanur,11.9173,79.57673,Villupuram,Villupuram,Valavanur,09-12-2024
+TUTVILPUD31,0.4,Mettilpatti,9.334027,78.09469,Thoothukudi,Vilathikulam,Pudur,09-12-2024
+PMBALACHE48,0.0,Irur,11.12724,78.83945,Perambalur,,Chettikulam,09-12-2024
+NMKKOLTIR25,0.0,Perakk Arai Nadu,11.40195,78.31442,Namakkal,Kolli hills,Tirupuli Nadu,09-12-2024
+PDKALAALA1,0.0,Alangudi,10.36431,78.98072,Pudukkottai,Alangudi,Alangudi,09-12-2024
+SVGSINSSK35,4.0,North Mampatti,10.07187,78.48518,Sivagangai,Singampunari,S.S.Kottai,09-12-2024
+KGIBARBAR11,0.0,Pasinayanapalli,12.47,78.36856,Krishnagiri,Bargur,Bargur,09-12-2024
+DGLNILNIL31,0.0,Nariyuthu,10.1792,77.88341,Dindigul,Nilakottai,Nilakkottai,09-12-2024
+TVMKALKAD11,0.0,Mattavettu,12.39347,78.92706,Tiruvannamalai,Kalasapakkam,Kadaladi,09-12-2024
+PMBVEPVAL14,0.0,V.Kalathur,11.40383,78.92707,Perambalur,Veppanthattai,Vallikandapuram,09-12-2024
+TVMCHNPUD34,0.0,Kanji,12.37654,78.96638,Tiruvannamalai,Chengam,Pudupalayam,09-12-2024
+ERDSATPUN46,0.0,Punjaipuliyampatti,11.35059,77.16798,Erode,Sathyamangalam,Punjai Puliampatti,09-12-2024
+CHN01Z010W2,0.0,Thiruvottiyur,13.16186,80.29989,Chennai,Thiruvottiyur,Ward 10 (Maatu Mandai),09-12-2024
+VNRARUARU4,0.0,Aruppukottai,9.502544,78.09564,Virudhunagar,Aruppukottai,Aruppukottai,09-12-2024
+VPMTINAVA9,0.0,Avanipur,12.27645,79.81752,Villupuram,Tindivanam,Avanipur,09-12-2024
+SLMTHAVEE51,0.0,Veeraganoor,11.47615,78.73847,Salem,Ganagavalli,Veeraganur,09-12-2024
+TNJPAPSAL20,0.0,Saliyamangalam,10.78351,79.27381,Thanjavur,Papanasam,Saliyamangalam,09-12-2024
+KARARAPAL18,0.0,Inunganur,10.69421,77.83307,Karur,Aravakurichi,Pallapatti,09-12-2024
+KGIUTHKAL21,0.0,Panaimarathupatti,12.25278,78.44155,Krishnagiri,Uthangarai,Kallavi,09-12-2024
+RPTARAPAR11,0.0,Paranji,13.0993,79.533,Ranipet,Arakkonam,Paranji,09-12-2024
+KGIPOCMAT28,0.0,Mathur,12.37964,78.41104,Krishnagiri,,Mathur,09-12-2024
+VNRKARMAL10,8.4,Kariyapatti,9.669303,78.10098,Virudhunagar,Kariyapatti,Mallankinar,09-12-2024
+SVGKALMAL10,0.0,Satharasankottai,9.763925,78.53375,Sivagangai,Kalaiyarkovil,Mallal,09-12-2024
+CHN13Z183W44,0.0,Avai Nagar,12.98125,80.25417,Chennai,Perungudi,Ward 183 (Perungudi),09-12-2024
+KARARAARA1,0.0,Aravakurichi,10.77284,77.9102,Karur,Aravakurichi,Aravakurichi,09-12-2024
+SLMSALSAL39,0.0,Udayapatty,11.66565,78.21455,Salem,Salem,Salem Town,09-12-2024
+MDUPERTKA30,0.0,T.Kallupatti,9.720087,77.85221,Madurai,Peraiyur,T. Kallupatti,09-12-2024
+DGLDIDDIN14,0.0,Alakkuvarpatti,10.41567,77.9767,Dindigul,Dindigul (West),Dindigul (West),09-12-2024
+TNVRADVAL36,0.0,Aanikulam,8.400496,77.66961,Tirunelveli,Radhapuram,Valliyoor,09-12-2024
+RMDRAMDEV6,0.0,Chittrakottai,9.427823,78.898,Ramanathapuram,Ramanathapuram,Devipattinam,09-12-2024
+NLGUDHSHO27,0.0,Masinagudi,11.57508,76.65396,Nilgiris,Udhagai,Sholur,09-12-2024
+CBECOISIN36,0.0,Singanallur,11.00027,77.03344,Coimbatore,Coimbatore (South),Singanallur,09-12-2024
+SVGTHITHR42,4.4,Thiruppuvanam,9.818648,78.27423,Sivagangai,Thiruppuvanam,Thiruppuvanam,09-12-2024
+CBESULSUL37,0.0,Sulur,11.02934,77.12211,Coimbatore,Sulur,Sulur,09-12-2024
+MDUVADTHE26,0.0,Thenkarai,10.01782,77.95353,Madurai,Vadipatti,Thenkarai,09-12-2024
+RMDPARBOG5,0.0,Kodikulam,9.361239,78.69765,Ramanathapuram,Paramakudi,Bogalur,09-12-2024
+KARKULTHO29,0.0,Kalladai,10.73954,78.47707,Karur,Kulithalai,Thogamalai,09-12-2024
+CUDVRIUMA33,0.0,Pazhaiyapattinam,11.60076,79.35649,Cuddalore,Virudhachalam,U.Mangalam,09-12-2024
+CBEPERALA1,0.0,Poluvapatti,10.95575,76.79321,Coimbatore,Perur,Alanthurai,09-12-2024
+VNRWATWAT39,0.0,Watrap,9.638971,77.63484,Virudhunagar,Watrap,Watrap,09-12-2024
+SVGDEVDEV1,0.4,Devakottai,9.965485,78.80185,Sivagangai,Devakottai,Devakottai,09-12-2024
+SLMMETPAL32,0.0,Kannamoochi,11.72347,77.71769,Salem,Mettur,Palamalai,09-12-2024
+CGLMADOON19,1.2000000000000002,Onambakkam,12.3851,79.96459,Chengalpattu,Madhurantakam,Oonampakkam,09-12-2024
+CBECOMTHU43,0.0,Chinnathadagam,11.08054,76.86416,Coimbatore,Coimbatore (North),Thudiyalur,09-12-2024
+TKSSIVCUD6,0.0,Nelkattum Seval,9.23549,77.45981,Tenkasi,Sivagiri,Cuddalor,09-12-2024
+CGLTHIMAM13,0.0,Mamallapuram,12.61603,80.18877,Chengalpattu,Thirukkalukundram,Mamallapuram,09-12-2024
+TPRPALPAL25,0.0,Panikampatti,10.97275,77.25113,Tiruppur,Palladam,Palladam,09-12-2024
+DPIPAPTHE43,0.0,Thenkaraikottai,12.01134,78.40215,Dharmapuri,Pappireddipatti,Thenkaraikottai,09-12-2024
+VELKATTHI19,0.0,Thiruvalam,12.98179,79.26668,Vellore,Katpadi,Thiruvalam,09-12-2024
+PMBKUNVAR16,0.0,Thungapuram,11.29327,79.10313,Perambalur,Kunnam,Varagur,09-12-2024
+DPIPAPBOM2,0.0,Bairnatham,11.94504,78.3015,Dharmapuri,Pappireddipatti,Bommidi,09-12-2024
+TUTVILSIV36,0.0,Sivagnanapuram,9.055232,78.08777,Thoothukudi,Vilathikulam,Sivagnanapuram,09-12-2024
+DPIPENPAU23,0.0,Citheri,11.891,78.50882,Dharmapuri,Pennagaram,Paparapatty,09-12-2024
+ERDSATSAT31,0.0,Sikkarasampalayam,11.53003,77.20873,Erode,Sathyamangalam,Sathyamangalam,09-12-2024
+TVMARNMUL84,0.0,Kunnathur,12.69143,79.23084,Tiruvannamalai,,Mullipattu,09-12-2024
+ERDTHATAL37,0.0,Panakahalli,11.67371,76.89316,Erode,Thalavadi,Talavadi,09-12-2024
+TNJPAPMIL11,0.0,Melattur,10.8576,79.24156,Thanjavur,Papanasam,Milattur,09-12-2024
+ERDBHABHA10,0.0,Bhavani (B),11.44901,77.68385,Erode,Bhavani,Bhavani,09-12-2024
+RMDKEEKEE11,0.0,Keelathuval,9.419566,78.55048,Ramanathapuram,Keelakarai,Keelakarai,09-12-2024
+TVMTHATHP45,0.0,Kilsiruppakkam,12.17519,78.99635,Tiruvannamalai,Chengam,Chengam_R.F,09-12-2024
+ERDGOBKAS20,0.0,Alukuli (A),11.44887,77.35661,Erode,Gobichettipalayam,Kasipalayam,09-12-2024
+RMDKADAPP4,0.0,Appanur,9.264089,78.48364,Ramanathapuram,Kadaladi,Appanur,09-12-2024
+NLGCOOCOO2,0.0,Yedapalli,11.37983,76.80949,Nilgiris,Coonoor,Coonoor,09-12-2024
+TVMCHNERA9,0.0,Eraiyur,12.27979,78.89,Tiruvannamalai,Chengam,Eraiyur,09-12-2024
+TPRAVISEV38,0.0,Punjaithamaraikulam,11.27377,77.2808,Tiruppur,Avinashi,Sevur,09-12-2024
+TVRMUTPAL89,0.0,A.Kuruchimoolai,10.54669,79.54944,Thiruvarur,,Palaiyur,09-12-2024
+DGLDINSAN49,0.0,Shanarpatti,10.28225,78.0707,Dindigul,Dindigul (East),Sanarpatti,09-12-2024
+KGIPOCBAR12,0.0,Kaveripattinam,12.3053,78.30701,Krishnagiri,Pochampalli,Barur,09-12-2024
+TRYTHRVEN41,0.4,Vengur,10.81695,78.77019,Thiruchirappalli,Thiruverumbur,Vengur,09-12-2024
+KGISHOSHO39,0.8,Ankondapalli,12.72628,78.00119,Krishnagiri,Shoolagiri,Shoolagiri,09-12-2024
+TUTTHOKEE16,0.0,Keelathattaparai,8.797253,78.02732,Thoothukudi,Thoothukudi,Keelathattaparai,09-12-2024
+DGLNILVIR57,0.0,Viruveedu,10.07853,77.7813,Dindigul,Nilakottai,Viruveedu,09-12-2024
+CUDCUDMAN11,0.0,Cuddalore,11.71955,79.7686,Cuddalore,Cuddalore,Manjakkuppam,09-12-2024
+TNJTHIKAN7,0.0,Kandiyur,10.85788,79.11079,Thanjavur,Thiruvaiyaru,Kandiyur,09-12-2024
+CUDVRIVRD37,0.0,Aalichakudi,11.49013,79.30662,Cuddalore,Virudhachalam,Virudhachalam (South),09-12-2024
+CGLTAMCHI6,0.0,Tambaram,12.93487,80.12712,Chengalpattu,Tambaram,Chitlapakkam,09-12-2024
+ERDPERPER29,0.0,Karumandisellipalayam,11.28061,77.5896,Erode,Perundurai,Perundurai,09-12-2024
+VPMVILKAD16,0.0,Rampakkam,11.84663,79.64255,Villupuram,Villupuram,Kandamangalam,09-12-2024
+CUDCHITHI27,0.0,Uthamachozhamangalam,11.40937,79.7549,Cuddalore,Chidambaram,Thiruvakkulam,09-12-2024
+TRYTHITRN1,0.0,Pandmangalam,10.83427,78.66493,Thiruchirappalli,Thiruchirapalli-west,Trichy (South),09-12-2024
+ERDTHATAL35,0.0,Thalamalai,11.62162,77.00153,Erode,Thalavadi,Talavadi,09-12-2024
+MDUMELTHI28,6.800000000000001,Thiruvathavur,9.956514,78.31699,Madurai,Melur,Thiruvathavur,09-12-2024
+CBEANNANU5,0.0,Annur,11.24015,77.10483,Coimbatore,Annur,Annur (South),09-12-2024
+RMDKEETHR40,0.0,Nalaiurkkai,9.302789,78.70012,Ramanathapuram,Keelakarai,Thiru. Uttarakosamangai,09-12-2024
+SLMKADKAD11,0.0,Veppilai,11.9634,78.14948,Salem,Kadayampatti,Kadayampatti,09-12-2024
+DGLKODTHA52,0.0,Thandikudi,10.31236,77.64173,Dindigul,Kodaikanal,Thandikudi,09-12-2024
+VPMMELAVA5,0.0,Avalurpet,12.33559,79.24239,Villupuram,Melmalaiyanur,Avalaurpet,09-12-2024
+CBEANNSAR4,0.0,S.S.Kulam,11.13553,77.03311,Coimbatore,,Sarkar Samakulam,09-12-2024
+SLMPETKAL56,0.0,Kunnur,11.72007,78.62186,Salem,Pethanaickenpalayam,Kalrayan Hills,09-12-2024
+DGLPALTHO54,0.0,Keeranur,10.59711,77.49974,Dindigul,Palani,Thoppampatti,09-12-2024
+CUDSRIKAV5,0.0,Melapalayur,11.46644,79.37698,Cuddalore,Srimushanam,Kavanur,09-12-2024
+CGLMADKAR8,0.0,Karunguzhi,12.54218,79.90405,Chengalpattu,Madhurantakam,Karunkuzi,09-12-2024
+MDUKALKUR9,0.0,Kurayur,9.692566,78.02345,Madurai,Kalligudi,Kuraiyur,09-12-2024
+TNJPATAAN1,0.0,Uthayamudaiyan,10.31754,79.30829,Thanjavur,Pattukottai,Aandikkadu,09-12-2024
+RPTARAPAL9,0.0,Attupakkam,12.99437,79.66338,Ranipet,Arakkonam,Pallur,09-12-2024
+TPRTIUSOU29,0.0,Pongalur,10.94305,77.43821,Tiruppur,Tiruppur (South),South avanashipalayam,09-12-2024
+CHN03Z022W11,0.0,Puzhal,13.16975,80.21528,Chennai,Madhavaram,Ward 22 (Chinnasekkadu),09-12-2024
+CGLVANMAM14,0.0,Nellikupam,12.83024,80.16154,Chengalpattu,Vandalur,Mampakkam,09-12-2024
+VNRRAJCHO5,0.0,Cholapuram,9.37492,77.56069,Virudhunagar,Rajapalayam,Cholapuram,09-12-2024
+DPIHARHAR22,0.0,Varnatheertham,12.05781,78.47925,Dharmapuri,,Harur,09-12-2024
+KPMSRIMAD5,0.0,Sriperumbuthur,12.95505,79.93459,Kancheepuram,Sriperumbudur,Sriperumbudur,09-12-2024
+TPRAVIAVA2,0.0,Avinashi (East),11.1891,77.27009,Tiruppur,Avinashi,Avanashi (East),09-12-2024
+TRYLALKAL9,1.6,Sadhurpagam,11.05072,78.95818,Thiruchirappalli,Lalgudi,Kallakkudi,09-12-2024
+CBEKINVAD46,0.0,Vadachittur,10.83569,77.08254,Coimbatore,Kinathukadavu,Vadasithur,09-12-2024
+TVRMUTMUT13,0.0,Therku Kadu,10.4206,79.59806,Thiruvarur,Muthupettai,Muthupettai,09-12-2024
+TUTKAYKAM13,0.0,Kamanaicanpatti,9.079603,77.93696,Thoothukudi,Kayathar,Kamanayakkanpatti,09-12-2024
+TPRUDUGUD8,0.0,Poolavadi,10.74007,77.3108,Tiruppur,Udumalpet,Gudimangalam,09-12-2024
+KALULUERA7,0.0,Kaattu Edaiyar,11.84916,79.14348,Kallakurichi,Ulundurpet,Eraiyur,09-12-2024
+CHN14Z188W46,0.0,Puzhithivakkam,12.96254,80.19841,Chennai,Perungudi,Ward 188 (Perungudi),09-12-2024
+ERDMODARA7,0.0,Vadukapatti (B),11.15271,77.73589,Erode,Modakkurichi,Arachalur,09-12-2024
+CHN10Z132W34,0.0,Ashok Nagar,13.04237,80.21613,Chennai,Kodambakkam,Ward 132 (Ashok Nagar),09-12-2024
+TRYTHUERA7,0.0,Koneripatti Alagapuri,11.18385,78.44616,Thiruchirappalli,Thuraiyur,Eragudi,09-12-2024
+MDUMELKAR4,0.0,Karungalakudi,10.16276,78.36669,Madurai,Melur,Karungalakkudi,09-12-2024
+KALCHINAI19,0.0,Nainarpalayam,11.57842,78.91262,Kallakurichi,Chinnaselam,Nainarpalayam,09-12-2024
+ERDTHATAL41,0.0,Thingalur (A),11.73288,77.27439,Erode,Thalavadi,Talavadi,09-12-2024
+TKSALANET17,0.0,Kavalakurichi,8.940564,77.56809,Tenkasi,Alangulam,Nettur,09-12-2024
+NGPVEDKAR8,0.0,Mulakarai,10.47304,79.68263,Nagapattinam,Vedaranyam,Kariapattinam,09-12-2024
+DGLNATNAT29,0.0,Nadumandalam,10.25495,78.24872,Dindigul,Natham,Natham,09-12-2024
+THNPERTHE22,0.0,Lakshmipuram,10.06566,77.51359,Theni,Periyakulam,Thenkarai,09-12-2024
+TRYMUSAMO3,0.0,Amur,10.91218,78.5486,Thiruchirappalli,Musiri,Amoor,09-12-2024
+TUTOTTMAN19,0.0,Melapandiyapuram,8.855897,77.93683,Thoothukudi,Ottapidaram,Maniyachi,09-12-2024
+PDKTHIKEE13,0.0,Agavayal,10.1736,78.91098,Pudukkottai,Thirumayam,Keelanilai,09-12-2024
+NMKMOHPAL16,0.0,Kumarapalayam,11.08857,78.06964,Namakkal,Mohanur,Palapatti,09-12-2024
+CHN12Z163W40,0.0,Adambakkam,12.99543,80.20208,Chennai,Alandur,Ward 163 (Alandur),09-12-2024
+KARKADKAD9,0.0,Palaviduthi,10.64707,78.23831,Karur,Kadavur,Kadavur,09-12-2024
+NGPVEDTHA11,0.0,Pachanathikulam,10.37206,79.71332,Nagapattinam,Vedaranyam,Thahattur,09-12-2024
+TKSTENKAD73,0.0,Kilakadayam,8.835903,77.36662,Tenkasi,,Kadayam,09-12-2024
+TRYMARTHU39,0.0,Ikkaraikosikurichi,10.36256,78.30593,Thiruchirappalli,Marungapuri,Thuvarankuruchi,09-12-2024
+TUTVILVEM46,0.0,Vembar,9.081433,78.35937,Thoothukudi,Vilathikulam,Vembar,09-12-2024
+SLMTHAKAT18,0.0,Kattukottai,11.58479,78.73971,Salem,Attur,Kattukotai,09-12-2024
+CUDPANPAN16,0.0,Aviyanur,11.84826,79.47292,Cuddalore,Panruti,Panruti,09-12-2024
+KALVANRIS21,0.0,Kottalam,11.80701,78.98866,Kallakurichi,Vanapuram,Rishivanthiyam,09-12-2024
+VNRTIRNAR20,0.0,Irunchirai,9.637165,78.33816,Virudhunagar,Tiruchuli,Narikudi,09-12-2024
+KGISHOBER13,0.0,Nerigam,12.8091,78.03747,Krishnagiri,Shoolagiri,Berigai,09-12-2024
+DPIPENPEN30,0.0,Senganur,12.10276,77.89653,Dharmapuri,Pennagaram,Pennagaram,09-12-2024
+VPMTINOLA29,0.0,Nallathur,12.29389,79.73851,Villupuram,Tindivanam,Olakkur,09-12-2024
+TVMCHNERA10,0.0,Nayambadi,12.3824,79.00654,Tiruvannamalai,Chengam,Eraiyur,09-12-2024
+NGPTHINEE42,0.0,Prinjimoolai,10.57068,79.71706,Nagapattinam,,Neermoolai,09-12-2024
+PDKKARMAL22,0.0,Karuppattipatti,10.48478,79.05068,Pudukkottai,Karambakudi,Malaiyur,09-12-2024
+NLGGUDDEV3,0.0,Nelliyalam,11.55241,76.41692,Nilgiris,Gudalur,Deversholai,09-12-2024
+NMKRASNAM14,0.0,Namagiiipettai,11.45655,78.26386,Namakkal,Rasipuram,Namagiripettai,09-12-2024
+RPTWALWAL18,0.0,Walajah,12.92796,79.35882,Ranipet,Walajah,Walajah,09-12-2024
+KALSANSAN22,0.0,Vadasiruvallur,11.87507,78.91954,Kallakurichi,Sankarapuram,Sankarapuram,09-12-2024
+TLRAVATHR26,0.0,Thirunindravur Town,13.12514,80.02976,Tiruvallur,Avadi,Thirunindravur,09-12-2024
+VPMGINVAL49,0.0,Thaiyur,12.21023,79.47747,Villupuram,Gingee,Vallam,09-12-2024
+NLGCOOMEU21,0.0,Melur,11.28575,76.74138,Nilgiris,Coonoor,Melur,09-12-2024
+VNRVIRAMA2,0.0,Amathur,9.563473,77.85803,Virudhunagar,Virudhunagar,Amathur,09-12-2024
+RMDTHITHO43,0.0,Sekkanthidal,9.737987,78.96323,Ramanathapuram,Thiruvadani,Thondi,09-12-2024
+TVMKALKAL13,0.0,Padagam,12.42375,79.19025,Tiruvannamalai,Kalasapakkam,Kalasapakkam,09-12-2024
+VNRSATNEN23,0.0,Pappkuti,9.391552,78.02539,Virudhunagar,Sattur,Nenmeni,09-12-2024
+KALVANVAD30,0.0,Ponparappi,11.99807,78.95094,Kallakurichi,Vanapuram,Vadaponparppi,09-12-2024
+NLGKOTNED30,0.0,Kodanad,11.49426,76.90143,Nilgiris,Kotagiri,Nedugula,09-12-2024
+TVMKALKET15,0.0,Kettavarampalayam,12.47493,78.98962,Tiruvannamalai,Kalasapakkam,Kettavarampalayam,09-12-2024
+TRYMARTHU21,8.4,Thuvarankurichi,10.37874,78.38606,Thiruchirappalli,Marungapuri,Thuvarankuruchi,09-12-2024
+CHN12Z167W41,0.0,Pazhavanthangal,12.98136,80.17929,Chennai,Alandur,Ward 166 (Alandur),09-12-2024
+DGLDINKAM19,0.0,Kambiliyampatti,10.36607,78.12165,Dindigul,Dindigul (East),Kambiliyampatti,09-12-2024
+KALTIRTHI25,0.0,Tirupalapandhal,11.94214,79.12577,Kallakurichi,Tirukkoilur,Thirupalapandal,09-12-2024
+PMBKUNKEL5,0.0,Maruvathur,11.21648,78.95509,Perambalur,Kunnam,Kelapuliyur,09-12-2024
+TNVMANMAN16,0.0,Manur,8.855073,77.65308,Tirunelveli,Manur,Manur,09-12-2024
+CGLTHRMAN15,0.0,Manampathi,12.65738,80.11597,Chengalpattu,Thirupporur,Manamathi,09-12-2024
+SLMPETYET55,0.0,Edaiyappatty,11.75403,78.49298,Salem,Pethanaickenpalayam,Yethapur,09-12-2024
+TRYLALPER10,0.0,Peruvalapur,11.01276,78.87151,Thiruchirappalli,Lalgudi,Peruvalappur,09-12-2024
+ERDBHAKUR25,0.0,Olagadam,11.56344,77.64653,Erode,Bhavani,Kurichi,09-12-2024
+PDKPUDPUD36,0.0,Kadayakudi,10.33038,78.82987,Pudukkottai,Pudukkottai,Pudukkottai,09-12-2024
+ARIUDAUDA20,0.0,Udayarpalayam,11.18824,79.29106,Ariyalur,Udayarpalayam,Udayarpalayam,09-12-2024
+SLMOMAOMA29,0.0,Tholsampatty,11.75087,77.97399,Salem,Omalur,Omalur,09-12-2024
+TVRMANKOT23,0.0,Mazhavarayanallur,10.65405,79.51202,Thiruvarur,Mannargudi,Kottur,09-12-2024
+CBESULSEL34,0.0,Sellakarichal,10.94648,77.16506,Coimbatore,Sulur,Selakarichal,09-12-2024
+TPRDHADHA6,0.0,Kolathupalayam,10.76442,77.58456,Tiruppur,Dharapuram,Dharapuram,09-12-2024
+CHN07Z084W23,0.0,Patravakkam,13.10622,80.16957,Chennai,Ambattur,Ward 84 (Ambattur),09-12-2024
+SLMEDAKON22,0.0,Konganapuram,11.57063,77.89902,Salem,Edappady,Konganapuram,09-12-2024
+CUDCUDRET22,0.0,Kalaiyur,11.8123,79.70953,Cuddalore,Cuddalore,Rettichavadi,09-12-2024
+TPRDHAPON33,0.0,Madathupalayam,10.76698,77.48803,Tiruppur,Dharapuram,Ponnapuram,09-12-2024
+THNPERDEV10,0.0,E Pudhukottai,10.12881,77.57656,Theni,Periyakulam,Devathanapatti,09-12-2024
+TPRKANKAN9,0.0,Kangayam,10.98906,77.53267,Tiruppur,Kangeyam,Kangeyam,09-12-2024
+CGLMADVAI30,0.0,Mamandur,12.65767,79.9439,Chengalpattu,Madhurantakam,Vaiayur,09-12-2024
+TPRKANVEL45,0.0,Uthamapalayam,10.90016,77.6722,Tiruppur,Kangeyam,Vellakoil,09-12-2024
+KALVANARI1,0.0,Jampadi,11.99983,79.0483,Kallakurichi,Vanapuram,Ariyalur,09-12-2024
+TVRKOOKOO17,0.0,Kamalapuram,10.73791,79.57507,Thiruvarur,Koothanallur,Koothanallur,09-12-2024
+CBEMETKAR10,0.0,Bellathi,11.25976,76.99532,Coimbatore,Mettupalayam,Karamadai,09-12-2024
+CBESULVAA45,0.0,Varappatti,10.86971,77.19165,Coimbatore,Sulur,Vaarapatty,09-12-2024
+TVMVEMPER33,0.0,Perungatur,12.74963,79.53278,Tiruvannamalai,Vembakkam,Perungattur,09-12-2024
+TRYMUSTHU34,0.0,Thumbalam,11.03113,78.4291,Thiruchirappalli,Musiri,Thumbalam,09-12-2024
+VNRKARMUD18,0.0,Mudukankulam,9.662117,78.20121,Virudhunagar,Kariyapatti,Mudukkankulam,09-12-2024
+ARIARITHI17,0.0,Thirumanur,10.93374,79.10128,Ariyalur,Ariyalur,Thirumanur,09-12-2024
+CUDSRITHI14,0.0,Thethampattu,11.39376,79.42829,Cuddalore,,Srimushnam,09-12-2024
+CBEPOLKOL8,0.0,Gomangalam,10.63535,77.16115,Coimbatore,,Kolarpatty,09-12-2024
+PDKKULNAR26,0.0,Narthamalai,10.50889,78.76407,Pudukkottai,Kulathur,Narthamalai,09-12-2024
+CGLMADATC2,0.0,Athur,12.34745,79.79671,Chengalpattu,Madhurantakam,Atcharappakkam,09-12-2024
+SLMOMAOMA63,0.0,Omalur,11.74013,78.0425,Salem,,Omalur,09-12-2024
+MDUTHIVAL34,0.0,Valayankulam,9.80811,78.096,Madurai,Thirupparankundram,Valayankulam,09-12-2024
+RMDRAMRAM28,0.0,Landhai,9.36721,78.77483,Ramanathapuram,Ramanathapuram,Ramanathapuram,09-12-2024
+VPMVIKVIK52,0.0,Mundiyapakkam,11.99673,79.51497,Villupuram,Vikkiravandi,Vikkiravandi,09-12-2024
+CUDCHIORA11,0.0,Keerapalayam,11.43567,79.64734,Cuddalore,,Orathur,09-12-2024
+MDUMELVEL35,3.2,Vellalur,10.00019,78.40595,Madurai,Melur,Vellalur,09-12-2024
+DGLODDPUL42,0.0,Puliyurnatham,10.52654,77.83019,Dindigul,Oddenchatram,Puliurnatam,09-12-2024
+KALVANMAN15,0.0,Manalurpet,12.00298,79.08992,Kallakurichi,Vanapuram,Manalurpettai,09-12-2024
+DPIHARMOR23,0.0,Obilinayakanpatt,12.12362,78.38875,Dharmapuri,,Morappur,09-12-2024
+PDKMANPER28,0.0,Perumaruthur,10.06704,79.10996,Pudukkottai,Manamelkudi,Perumaruthoor,09-12-2024
+TUTKAYKAY15,0.0,Pannikulam,8.953615,77.81573,Thoothukudi,Kayathar,Kayathar,09-12-2024
+ERDANTANT5,0.0,Burgur,11.57648,77.58852,Erode,Anthiyur,Anthiyur,09-12-2024
+VPMKANMUG26,0.0,Mugaiyur,11.9768,79.30672,Villupuram,Kandachipuram,Mugaiyur,09-12-2024
+TVRMUTMUT12,0.0,Udayamarthandapuram,10.44102,79.55842,Thiruvarur,Muthupettai,Muthupettai,09-12-2024
+THNUTHUTA28,0.0,Mela Gudalur,9.625804,77.26698,Theni,Uthamapalayam,Uthamapalayam_R.F,09-12-2024
+TVMCHNPAC31,0.0,Paliyapattu,12.26613,78.99244,Tiruvannamalai,Chengam,Pachal,09-12-2024
+SLMMETKOL21,0.0,Lakkampatti,11.83748,77.66193,Salem,Mettur,Kolathur,09-12-2024
+TVMKALKAL12,0.0,Kalasapakkam,12.4325,79.10328,Tiruvannamalai,Kalasapakkam,Kalasapakkam,09-12-2024
+THNUTHUTA26,0.0,Mela Gudalur (South),9.625907,77.1968,Theni,Uthamapalayam,Uthamapalayam_R.F,09-12-2024
+CHN13Z170W42,0.0,Guindy (Sipcot),13.0214,80.20844,Chennai,Adyar,Ward 170 (Adyar),09-12-2024
+VPMVIKANN2,0.0,Anniyur,12.06879,79.39638,Villupuram,Vikkiravandi,Anniyur,09-12-2024
+CHN05Z058W16,0.0,Vepery,13.08887,80.27271,Chennai,Royapuram,Ward 58 (Periyamedu),09-12-2024
+DGLATHAYY5,0.0,Ayyampalayam,10.23023,77.75196,Dindigul,Athoor,Ayyampalayam,09-12-2024
+KPMUTHUTH33,0.0,Uthiramerur,12.61173,79.73067,Kancheepuram,,Uthiramerur,09-12-2024
+VELPERMEL11,0.0,Melpatti,12.86134,78.79151,Vellore,Pernambut,Melpatti,09-12-2024
+TUTERAALW1,0.0,Themangulam,8.593035,77.96015,Thoothukudi,Eral,Alwarthirunagari,09-12-2024
+TPRDHAKAN10,0.0,Kannivadi,10.8105,77.78426,Tiruppur,Dharapuram,Kannivadi,09-12-2024
+NLGKOTNED23,0.0,Nedugula,11.51922,76.91277,Nilgiris,Udhagai,Udhagai_R.F,09-12-2024
+PMBALACHE2,0.0,Kannapadi,11.10347,78.72581,Perambalur,Alathur,Chettikulam,09-12-2024
+TNJPATTHI80,0.0,Krishnapuram,10.35599,79.17994,Thanjavur,,Thiruchitrambalam,09-12-2024
+NGPVEDTHA10,0.0,Thagattur,10.41352,79.68646,Nagapattinam,Vedaranyam,Thahattur,09-12-2024
+TPRDHADHA7,0.0,Dharapuram,10.73197,77.52893,Tiruppur,Dharapuram,Dharapuram,09-12-2024
+TKSKADAYI4,0.0,Ayikudi,9.001478,77.34547,Tenkasi,Kadayanallur,Ayikudi,09-12-2024
+KKMAGAKAN7,0.0,Kanniyakumari,8.081634,77.54924,Kanniyakumari,Agastheeswaram,Kanniyakumari,09-12-2024
+VPMVANVAN27,0.0,Vanur,12.01942,79.73194,Villupuram,Vanur,Vanur,09-12-2024
+TPRAVIAVI4,0.0,Karuvalur,11.21093,77.1907,Tiruppur,Avinashi,Avinashi (West),09-12-2024
+SLMKADKAD12,0.0,Gundukkal,11.912,78.12878,Salem,Kadayampatti,Kadayampatti,09-12-2024
+VNRKARMAL11,1.6,Mallankinar,9.600762,78.06068,Virudhunagar,Kariyapatti,Mallankinar,09-12-2024
+TPRUDUKUR15,0.0,Andiyagoundanur-2,10.42799,77.26168,Tiruppur,Udumalpet,Kurichikottai,09-12-2024
+PDKPUDPUD37,0.0,Puthambur,10.46564,78.84865,Pudukkottai,Pudukkottai,Pudukkottai,09-12-2024
+TNJPATMAD10,0.0,Keelakurichi,10.54294,79.41632,Thanjavur,Pattukottai,Madukkur,09-12-2024
+TVMVANPER32,0.0,Peranamallur,12.56376,79.43257,Tiruvannamalai,Vandavasi,Peranamallur,09-12-2024
+KGIHOSHOU18,0.4,Hosur,12.72712,77.82749,Krishnagiri,Hosur,Hosur Town,09-12-2024
+TPRTIUNAL20,0.0,Nallur,11.09928,77.39251,Tiruppur,Tiruppur (South),Nallur,09-12-2024
+TUTKAYKAY83,0.0,Kayathar,8.947035,77.77253,Thoothukudi,,Kayathar,09-12-2024
+TNJPAPKAB6,0.0,Kabisthalam,10.94224,79.24702,Thanjavur,Papanasam,Kabisthalam,09-12-2024
+NLGUDHUDA20,0.0,Udhagai_R.F,11.40197,76.6446,Nilgiris,Udhagai,Udhagai_R.F,09-12-2024
+DPIPAPTHE44,0.0,Pethathampatti,11.98804,78.46845,Dharmapuri,Pappireddipatti,Thenkaraikottai,09-12-2024
+KKMKILMID10,0.0,Paloor,8.245285,77.23439,Kanniyakumari,Killiyoor,Midalam,09-12-2024
+VPMMARSIR35,0.0,Siruvadi,12.21286,79.83841,Villupuram,Marakkanam,Siruvadi,09-12-2024
+PDKTHITHI40,0.0,Thirumayam,10.24204,78.74454,Pudukkottai,Thirumayam,Thirumayam,09-12-2024
+MDUMAUKAL3,0.0,Kallandhiri,10.03706,78.20027,Madurai,Madurai (East),Kallandiri,09-12-2024
+NLGKOTKIL11,0.0,Kengarai,11.41443,76.92859,Nilgiris,Kotagiri,Kil kothagiri,09-12-2024
+SVGSIVOKK19,0.0,Thamarakki,9.923835,78.38153,Sivagangai,Sivagangai,Okkur,09-12-2024
+MDUVADNEE37,0.0,Thathampatti,10.07109,77.97686,Madurai,,Neerethan,09-12-2024
+DGLPALAYY2,0.0,Ayakudi (East),10.44982,77.55662,Dindigul,Palani,Ayyakudi,09-12-2024
+KARARACHI4,0.0,Kodanthur (South),10.88766,77.78519,Karur,Aravakurichi,Chinnadharapuram,09-12-2024
+TNVNANERU6,0.0,Thirukurunkudi 2,8.43308,77.4987,Tirunelveli,Nanguneri,Eruvadi,09-12-2024
+ERDGOBVAN43,0.0,Punjai Thuraiyampalayam,11.50571,77.36332,Erode,Gobichettipalayam,Vanipudur,09-12-2024
+TNJORAEAC5,0.0,Echankottai,10.65324,79.17046,Thanjavur,Orathanad,Eachankottai,09-12-2024
+VPMMELSAT32,0.0,Sathampadi,12.37376,79.3576,Villupuram,Melmalaiyanur,Sathampadi,09-12-2024
+TVMTHATHN47,0.0,Pudurchekkadi,12.04366,78.80876,Tiruvannamalai,Thandrampet,Thanipadi,09-12-2024
+TNVAMBSIN29,0.0,Vairavikulam,8.670368,77.44537,Tirunelveli,Ambasamudram,Singampatti,09-12-2024
+TRYMUSMUS42,0.4,Musiri,10.94638,78.44635,Thiruchirappalli,Musiri,Musiri,09-12-2024
+TLRPONRED25,0.0,Redhills,13.20303,80.19446,Tiruvallur,Ponneri,Redhills,09-12-2024
+KGIDENKAK19,0.0,Thalikothanoor,12.5717,77.6901,Krishnagiri,Denkanikottai,Kakkadasam,09-12-2024
+PDKKULKIL16,0.0,Udayalipatti,10.58361,78.89441,Pudukkottai,Kulathur,Killukkottai,09-12-2024
+TVMJAMPUL36,0.0,Kovilur,12.60339,78.8906,Tiruvannamalai,Jamunamarathoor,Puliyur,09-12-2024
+NMKTIRMAL7,0.0,Mallasamudram (East),11.49387,78.03011,Namakkal,Tiruchengode,Mallasamuthram,09-12-2024
+CUDVEPSIR24,0.0,Orangur,11.49664,78.96131,Cuddalore,Veppur,Sirupakkam,09-12-2024
+CGLCHYCHE5,0.0,Cheyyur,12.35213,79.9996,Chengalpattu,Cheyyur,Cheyyur,09-12-2024
+CBEMETMET24,0.0,Sirumugai,11.32935,76.9993,Coimbatore,Mettupalayam,Mettupalayam,09-12-2024
+DPIHARMOR19,0.8,Paraiyapatti,12.13599,78.4689,Dharmapuri,Harur,Morappur,09-12-2024
+SVGSINSSK36,0.0,Muraiyur,10.14654,78.50179,Sivagangai,Singampunari,S.S.Kottai,09-12-2024
+CBEANNANU4,0.0,Vadavalli,11.22659,77.02676,Coimbatore,Annur,Annur (South),09-12-2024
+MYDSIRSIR7,0.0,Sirkali,11.23318,79.73942,Mayiladuthurai,Sirkazhi,Sirkali,09-12-2024
+KGIPOCPOC34,0.0,Kendikampatti,12.35504,78.38875,Krishnagiri,Pochampalli,Pochampalli,09-12-2024
+CBEMADOTH26,0.0,Othakalmandabam,10.87328,77.00416,Coimbatore,Madukarai,Othakalmandapam,09-12-2024
+KARKARTHO30,0.0,Baganatham,10.84874,78.04447,Karur,Karur,Thoranakalpatti,09-12-2024
+NMKKOLVAL31,0.0,Valappurnadu,11.26176,78.3835,Namakkal,Kolli hills,Valavanthi Nadu,09-12-2024
+TVRTHREDA22,0.0,Edaiyur,10.47391,79.58584,Thiruvarur,Thiruthuraipoondi,Edaiyur,09-12-2024
+VNRRAJSEI33,0.0,Methupatti,9.408472,77.4857,Virudhunagar,Rajapalayam,Seithur,09-12-2024
+TPRPALPON30,0.0,Kanganaiyakan Palayam,10.90636,77.3764,Tiruppur,Palladam,Pongalore,09-12-2024
+TKSTHITHI26,0.0,Tiruvengadam,9.266956,77.67501,Tenkasi,Thiruvengadam,Thiruvengadam,09-12-2024
+PDKVIRNEE27,0.0,Neerpalani,10.6178,78.70982,Pudukkottai,Viralimalai,Neerpalani,09-12-2024
+VNRTIRVEE37,0.0,Sethupuram,9.487388,78.26224,Virudhunagar,Tiruchuli,Veeracholan,09-12-2024
+CUDCHICHI2,0.0,Nanjalur,11.3692,79.65763,Cuddalore,Chidambaram,Chidambaram,09-12-2024
+TKSTENTEN25,0.0,Kutralam,8.93311,77.2735,Tenkasi,Tenkasi,Tenkasi,09-12-2024
+TLRAVAMOR17,0.0,Morai,13.18362,80.08973,Tiruvallur,Avadi,Morai,09-12-2024
+DGLNATSEN50,0.0,Senthurai,10.39458,78.25294,Dindigul,Natham,Sendurai,09-12-2024
+CUDSRITHI25,0.0,Sri Neduncheri,11.40518,79.44673,Cuddalore,Srimushanam,Srimushnam,09-12-2024
+RMDKAMABI1,0.0,Kakudi,9.454073,78.36511,Ramanathapuram,Kamuthi,Abiramam,09-12-2024
+PDKARANAG25,0.0,Kalakudi,10.15224,79.10536,Pudukkottai,Aranthangi,Nagudi,09-12-2024
+VELVELSAT17,0.0,Balamathi,12.88994,79.1669,Vellore,Vellore,Sathuvachari,09-12-2024
+TLRGUMPOO24,0.0,Poovalambedu,13.35166,80.04389,Tiruvallur,Gummidipoondi,Poovalambedu,09-12-2024
+RPTKALKAL5,0.0,Kalavai,12.75326,79.41363,Ranipet,Kalavai,Kalavai,09-12-2024
+TVMTHATHA43,1.2000000000000002,Kannakandhal,12.21931,78.939,Tiruvannamalai,Thandrampet,Thandarampet,09-12-2024
+TVMJAMPUL35,0.0,Puliyur,12.4763,78.83796,Tiruvannamalai,Jamunamarathoor,Puliyur,09-12-2024
+RMDRAMDEV7,0.0,Devipattinam,9.475314,78.89449,Ramanathapuram,Ramanathapuram,Devipattinam,09-12-2024
+KALULUKAL10,0.0,M.Kunnathur,11.81342,79.27095,Kallakurichi,Ulundurpet,Kalamarudhur,09-12-2024
+TNVTIRTIR31,0.0,Suthamalli,8.700379,77.63265,Tirunelveli,Tirunelveli,Tirunelveli,09-12-2024
+SLMSANTHE46,0.0,Koneripatti,11.52086,77.74322,Salem,Sankari,Thevoor,09-12-2024
+TNVPALMUN21,0.0,Muneerpallam,8.681572,77.69841,Tirunelveli,Palayamkottai,Munneerpallam,09-12-2024
+TVMCHNMEL20,0.0,Andipatti,12.22142,78.73888,Tiruvannamalai,Chengam,Melpallipattu,09-12-2024
+TVMPOLKEL14,0.0,Thepanandhal,12.59419,79.16547,Tiruvannamalai,Polur,Kelur,09-12-2024
+TUTSRISEI34,0.0,Vitlapuram Kovilpathu,8.666529,77.82609,Thoothukudi,Srivaikundam,Seidunganallur,09-12-2024
+KARKULKUL12,0.0,Vaigainallur (North),10.94095,78.42071,Karur,Kulithalai,Kulithalai,09-12-2024
+TLRRKPERU5,0.0,Erumbi,13.11887,79.4023,Tiruvallur,R.k. pettai,Erumbi,09-12-2024
+CBEMADTHI38,0.0,Thirumalayampalayam (North),10.88179,76.92734,Coimbatore,Madukarai,Thirumalayampalayam,09-12-2024
+CHN04Z040W15,0.0,Tondiarpat,13.13641,80.28858,Chennai,Tondiarpet,"Ward 40 (Voc Nagar,Ammani Ammal Thottam)",09-12-2024
+VPMVIKKAN18,0.0,Kanjanur,12.06711,79.4743,Villupuram,Vikkiravandi,Kanjanur,09-12-2024
+TUTERAARU2,0.0,Thiruthondanallur,8.628992,78.01848,Thoothukudi,Eral,Arumugamangalam,09-12-2024
+SVGDEVKAN6,0.0,Perattukottai,9.998973,78.81188,Sivagangai,Devakottai,Kandadevi,09-12-2024
+NMKPARPAN18,0.0,Paundamangalam,11.11566,77.97718,Namakkal,Paramathi velur,Pandamangalam,09-12-2024
+PMBALACHE1,0.0,Ammapalayam,11.21307,78.7432,Perambalur,Perambalur,Kurumbalur,09-12-2024
+VPMVIKANN1,0.0,Kakkanur,12.03147,79.38547,Villupuram,Vikkiravandi,Anniyur,09-12-2024
+TVMKILVET59,0.0,Avoor,12.13171,79.204,Tiruvannamalai,Kilpennathur,Vettavalam,09-12-2024
+RMDKEETHR39,0.0,Utthrakosa Mangai,9.316954,78.73654,Ramanathapuram,Keelakarai,Thiru. Uttarakosamangai,09-12-2024
+SLMEDAPOO36,0.0,Chittur Bit - 1,11.64091,77.8244,Salem,Edappady,Poolampatti,09-12-2024
+VPMVANUPP44,0.0,Karattai,12.1319,79.81926,Villupuram,Vanur,Uppuvelur,09-12-2024
+CHN15Z196W50,0.0,Injambakkam,12.92001,80.25235,Chennai,Sholinganallur,Ward 196 (Sholinganallur),09-12-2024
+TPTAMBTHU17,0.0,Venkatasamuthiram,12.79608,78.68929,Tirupathur,Ambur,Thuthipet,09-12-2024
+TNVTIRMAT18,0.0,Seetharpanallur,8.787459,77.60048,Tirunelveli,Tirunelveli,Mathavakurichi,09-12-2024
+PDKTHIKOT18,0.0,Kottur,10.32012,78.72038,Pudukkottai,Thirumayam,Kottur,09-12-2024
+VPMVANVAN51,0.0,Poothurai,11.97153,79.76249,Villupuram,Vanur,Vanur,09-12-2024
+RMDPARBOG52,0.0,Bogalur,9.402476,78.70559,Ramanathapuram,,Bogalur,09-12-2024
+VNRSIVMAN16,0.0,Mangalam,9.568945,77.75665,Virudhunagar,Sivakasi,Mangalam,09-12-2024
+RPTARCPUD12,0.0,Mecheri,12.87622,79.3671,Ranipet,Arcot,Pudupadi,09-12-2024
+KARKADMYL16,0.0,Kosur,10.7428,78.328,Karur,Kadavur,Mylampatti,09-12-2024
+RMDKADMEL19,0.0,Keelakidram,9.196865,78.60312,Ramanathapuram,Kadaladi,Melaselvanur,09-12-2024
+MDUVADALA17,0.0,Pannaikudi,10.02449,78.12002,Madurai,Vadipatti,Alanganallur,09-12-2024
+ERDGOBSIR33,0.0,Siruvalur,11.36655,77.46252,Erode,Gobichettipalayam,Siruvalur,09-12-2024
+CBESULKAR12,0.0,Arasur,11.08443,77.11674,Coimbatore,Sulur,Karumathampatty,09-12-2024
+TLRUTHUTH29,0.4,Periapalayam (Athupakkam),13.31192,80.04269,Tiruvallur,Uthukottai,Uthukottai,09-12-2024
+TPRPALSAM35,0.0,Ichipatti,11.05369,77.18999,Tiruppur,Palladam,Samalapuram,09-12-2024
+PMBPERKUR9,0.0,Melapuliyur (W),11.2675,78.76997,Perambalur,Perambalur,Kurumbalur,09-12-2024
+KGIKRIKUR24,0.0,Kuruburapalli,12.60135,78.13374,Krishnagiri,Krishnagiri,Kurubrapalli,09-12-2024
+RMDPARPAR22,0.0,Urappuli,9.488122,78.66237,Ramanathapuram,Paramakudi,Paramakudi,09-12-2024
+VELVELKAN6,0.0,Kaniyambadi,12.79257,79.1363,Vellore,Vellore,Kaniyambadi,09-12-2024
+SLMSALPAN34,0.0,Kamalapatti,11.59214,78.28397,Salem,Salem,Panamarathupatti,09-12-2024
+TUTSRIVAL44,0.0,North Vallanadu,8.721929,77.8517,Thoothukudi,Srivaikundam,Vallanadu,09-12-2024
+TPRDHAALA1,0.0,Alangiyam,10.65396,77.48779,Tiruppur,Dharapuram,Alangiyam-dup,09-12-2024
+DGLDINSAN17,0.0,Shanarpatti,10.29209,78.04729,Dindigul,,Sanarpatti,09-12-2024
+VNRSIVSAL30,0.0,Salvarpatti,9.375763,77.79721,Virudhunagar,Sivakasi,Salwarpatti,09-12-2024
+THNUTHMAR14,0.0,Markaiyankottai,9.851462,77.36141,Theni,Uthamapalayam,Markayankottai,09-12-2024
+TRYTHRNAV32,0.0,Theneripatti,10.70738,78.83957,Thiruchirappalli,Thiruverumbur,Navalpattu,09-12-2024
+TKSSHESHE23,0.0,Shencotttai,8.971416,77.24921,Tenkasi,Shencottai,Shencottai,09-12-2024
+TUTETTMUT22,0.0,Masarpatti,9.287062,78.03553,Thoothukudi,Ettayapuram,Muthulapuram,09-12-2024
+ARIUDAJAY4,0.0,Amanakanthondi,11.20516,79.40958,Ariyalur,Udayarpalayam,Jayankondam,09-12-2024
+NMKTIRMOL10,0.0,Molasi,11.25831,77.85989,Namakkal,Tiruchengode,Molasi,09-12-2024
+KARKRICHI5,0.0,Kallappalli,10.94934,78.34097,Karur,Krishnarayapuram,Chinthalavadi,09-12-2024
+NMKMOHVAL29,0.0,Valayapatti,11.12448,78.23185,Namakkal,Mohanur,Valayapatti,09-12-2024
+TPRUDUKUR18,0.0,Pallapalayam,10.53045,77.21668,Tiruppur,Udumalpet,Kurichikottai,09-12-2024
+DGLPALPAL34,0.0,Balasamuthiram,10.41733,77.49443,Dindigul,Palani,Palani,09-12-2024
+KARARACHI2,0.0,P.Anaipalayam,10.88288,77.95278,Karur,Aravakurichi,Chinnadharapuram,09-12-2024
+TNVAMBAMA46,0.0,Oothu,8.574992,77.34167,Tirunelveli,Ambasamudram,Ambasamudiram_R.F,09-12-2024
+TLRTIRVEL31,0.0,Keelanur,13.19654,79.96238,Tiruvallur,Tiruvallur,Velliyur,09-12-2024
+CBECOMTHU5,0.0,Thudiyalur,11.08101,76.94216,Coimbatore,,Thudiyalur,09-12-2024
+MDUMAUKUN7,0.0,Kunnathur,9.91214,78.25519,Madurai,Madurai (East),Kunnathur,09-12-2024
+DPIPAPPAP26,0.0,Suriyakadi,11.92777,78.56693,Dharmapuri,Pappireddipatti,Pappireddipatti_R.F,09-12-2024
+TNVNANERU4,0.0,Nambi kovil,8.434387,77.59901,Tirunelveli,Nanguneri,Eruvadi,09-12-2024
+PMBPERKUR8,0.0,Keelakarai,11.29362,78.83242,Perambalur,Perambalur,Perambalur,09-12-2024
+SLMPETKAL14,0.0,Karumandurai,11.82398,78.62666,Salem,Pethanaickenpalayam,Kalrayan Hills,09-12-2024
+TVRNEEKOR21,0.0,Arichapuram,10.71268,79.47249,Thiruvarur,Needamangalam,Koradacheri,09-12-2024
+TNVMANMAN15,0.0,Kattarankulam,8.90846,77.68118,Tirunelveli,Manur,Manur,09-12-2024
+TPRDHASAN36,0.0,Sankarandapalayam,10.83249,77.58703,Tiruppur,Dharapuram,Sangarandampalayam,09-12-2024
+CHN10Z140W35,0.0,Saligramam,13.02885,80.22244,Chennai,Kodambakkam,Ward 140 (Saidapet),09-12-2024
+VPMMELMEL24,0.0,Thorapadi,12.3109,79.3242,Villupuram,Melmalaiyanur,Melmalaiyanur,09-12-2024
+KGIKRIALA1,0.0,Sokadi,12.45979,78.14891,Krishnagiri,Krishnagiri,Alapatti,09-12-2024
+MDUVADALA36,0.0,Allanganallur,10.04984,78.08352,Madurai,,Alanganallur,09-12-2024
+KPMSRISUN13,0.0,Maduramangalam,12.95063,79.81706,Kancheepuram,Sriperumbudur,Maduramankalam,09-12-2024
+DPIDHAKRI12,0.0,Krishnapuram,12.20542,78.25256,Dharmapuri,Dharmapuri,Krishnapuram,09-12-2024
+VPMTINTIN42,0.0,Omanthur,12.16392,79.69399,Villupuram,Tindivanam,Tindivanam,09-12-2024
+TUTOTTOTT23,0.0,Ottapidaram,8.905834,78.02164,Thoothukudi,Ottapidaram,Ottapidaram,09-12-2024
+CUDVEPSIR23,0.0,Mangalur,11.51173,79.00768,Cuddalore,Veppur,Sirupakkam,09-12-2024
+CUDKATUDA32,0.0,Pazhanjanallur,11.27679,79.51135,Cuddalore,Kattumannarkoil,Udaiyarkudi,09-12-2024
+TNJKUMKUM9,0.0,Perumandi,10.97787,79.37622,Thanjavur,Kumbakonam,Kumbakonam,09-12-2024
+ARISENSEN14,0.0,Asaveevankudikadu,11.32012,79.20936,Ariyalur,Sendurai,Mathur,09-12-2024
+VPMGINVAL48,0.0,Vallam,12.25284,79.51701,Villupuram,Gingee,Vallam,09-12-2024
+TNJPATTHU29,0.0,Thuvarankurichi (North),10.39986,79.37913,Thanjavur,Pattukottai,Thurvarankurichi,09-12-2024
+KKMKILPAI12,0.0,Munchirai,8.268789,77.15426,Kanniyakumari,Killiyoor,Painkulam,09-12-2024
+RPTWALRAN13,0.0,Karai Ranipet,12.94442,79.32083,Ranipet,Walajah,Ranipet,09-12-2024
+TVMTHATHA86,0.0,Thandramapattu,12.15573,78.94502,Tiruvannamalai,,Thandarampet,09-12-2024
+CHN03Z027W14,0.0,Madhavaram,13.16101,80.24024,Chennai,Madhavaram,Ward 27 (Arul Nagar),09-12-2024
+KKMAGASUC14,0.0,Suchindram,8.15848,77.45893,Kanniyakumari,Agastheeswaram,Suchindrum,09-12-2024
+TPTVANAMB3,0.0,Ambalur,12.66505,78.56426,Tirupathur,Vaniyambadi,Ambalur,09-12-2024
+NGPTHIVAL7,0.0,Valivalam,10.65226,79.69407,Nagapattinam,Thirukkuvalai,Valivalam,09-12-2024
+VPMTHISIT39,0.0,Pennaivalam,11.88323,79.29179,Villupuram,Thiruvennainallur,Sithalingamadam,09-12-2024
+TPRKANVEL44,0.0,Vellakovil,10.94573,77.71768,Tiruppur,Kangeyam,Vellakoil,09-12-2024
+KGIUTHSAM37,0.0,Samalpatti,12.31009,78.48842,Krishnagiri,Uthangarai,Samalpatti,09-12-2024
+CBEPERTHO7,0.0,Aachipatty,11.00132,76.81999,Coimbatore,,Thondamuthur,09-12-2024
+CHN03Z024W13,0.0,Kathirvedu,13.14268,80.19115,Chennai,Madhavaram,Ward 24 (Puzhal),09-12-2024
+ERDNAMNAM28,0.0,Nambiyur (B),11.34703,77.3268,Erode,Nambiyur,Nambiyur,09-12-2024
+NLGGUDGUA7,0.0,Mudumalai,11.57249,76.55643,Nilgiris,Gudalur,Gudalur_R.F,09-12-2024
+ERDBHAKAV21,0.0,Kavundapadi (A),11.42636,77.56054,Erode,Bhavani,Kavindapadi,09-12-2024
+SLMPETPET35,0.0,Erramasamuthiram,11.64519,78.51501,Salem,Pethanaickenpalayam,Pethanaickenpalayam,09-12-2024
+THNUTHCUM8,0.0,Narayathevanpatti (North),9.706666,77.30336,Theni,Uthamapalayam,Cumbum,09-12-2024
+DGLODDKAL17,0.0,Appiyampatty,10.65747,77.64135,Dindigul,Oddenchatram,Kallimanthayam,09-12-2024
+TRYMUSTHU35,0.0,Anjalam,11.07728,78.39529,Thiruchirappalli,Musiri,Thumbalam,09-12-2024
+VNRTIRAMU3,0.0,Pulvaikarai,9.709138,78.22023,Virudhunagar,Tiruchuli,A Mukkulam,09-12-2024
+VELANAUSS20,0.0,Sekkanur,12.86734,79.0634,Vellore,Anaicut,Ussoor,09-12-2024
+MDUPERSED21,0.0,Sedapatti,9.823267,77.79801,Madurai,Peraiyur,Sedapatti,09-12-2024
+TUTTIRUDA42,0.0,Paramankurichi,8.480292,78.04476,Thoothukudi,Tiruchendur,Udangudi,09-12-2024
+KGIUTHSIN41,0.0,Singarapettai,12.25983,78.62178,Krishnagiri,Uthangarai,Singarapatai,09-12-2024
+TLRTIRPOO21,0.0,Poondi,13.20775,79.87961,Tiruvallur,Tiruvallur,Poondi,09-12-2024
+TPRUTHKUN14,0.0,Kunnathur,11.2728,77.41089,Tiruppur,Uthukkuli,Kunnuthur,09-12-2024
+NLGPANPAN26,0.0,Nelliyalam,11.48696,76.33922,Nilgiris,Pandalur,Pandalur,09-12-2024
+TUTOTTVED45,0.0,Vedanatham,8.972052,78.14707,Thoothukudi,Ottapidaram,Vedanatham,09-12-2024
+DPIPENPER33,0.0,Perumbalai,11.96192,77.93882,Dharmapuri,Pennagaram,Perumbalai,09-12-2024
+PDKKULKEE12,0.4,Keeranur,10.5727,78.78952,Pudukkottai,Kulathur,Keeranur,09-12-2024
+NMKTIRTIR23,0.0,Tiruchengode,11.37767,77.89363,Namakkal,Tiruchengode,Tiruchengode,09-12-2024
+SLMKADKAD13,0.0,Ponnampalayam,11.95234,78.20845,Salem,Kadayampatti,Kadayampatti,09-12-2024
+TVMTHATHA42,0.0,Thandrampattu,12.15565,78.94481,Tiruvannamalai,Thandrampet,Thandarampet,09-12-2024
+KALSANSAN26,0.0,Sangarapuram,11.87645,78.90637,Kallakurichi,,Sankarapuram,09-12-2024
+CUDCUDTHI28,0.0,Pathirikuppam,11.74678,79.73115,Cuddalore,Cuddalore,Thiruvanthipuram,09-12-2024
+TRYMANVAI46,0.0,Vaiyampatti,10.55011,78.28918,Thiruchirappalli,Manapparai,Vaiyampatti,09-12-2024
+DGLPALPAP39,0.0,Pappampatti,10.44454,77.40301,Dindigul,Palani,Pappampatti,09-12-2024
+DGLVEDVED56,0.0,Vedasandur,10.52927,77.9566,Dindigul,Vedasandur,Vedasandur,09-12-2024
+KGIHOSBAG10,0.0,Thummanapalli,12.82064,77.90386,Krishnagiri,Hosur,Bagalur,09-12-2024
+KALKALNAG18,0.0,Virugavur,11.6892,79.04276,Kallakurichi,Kallakurichi,Nagalur,09-12-2024
+TUTKOVKOV17,0.0,Kovilpatti,9.174202,77.87465,Thoothukudi,Kovilpatty,Kovilpatti,09-12-2024
+MYDTHASEM8,0.0,Aakkur Pandaravadai,11.11093,79.74287,Mayiladuthurai,Tharangambadi,Sembanarkoil,09-12-2024
+DPIHARMOR16,0.0,Maruthipatti,12.1454,78.43597,Dharmapuri,Harur,Morappur,09-12-2024
+TVMTIRNAI23,0.0,Naidumangalam,12.40151,79.10132,Tiruvannamalai,Tiruvannamalai,Naidumangalam,09-12-2024
+VNRSATSAT31,0.0,Sattur,9.352124,77.92028,Virudhunagar,Sattur,Sattur,09-12-2024
+TVRKOOVAD16,0.0,Vadapathimangalam,10.70051,79.57603,Thiruvarur,Koothanallur,Vadapathimangalam,09-12-2024
+PDKAVUAVU4,0.0,Esamangalam,10.096,79.06634,Pudukkottai,Avudaiyarkoil,Avudaiyarkoil,09-12-2024
+CBEANNSAR33,0.0,Keeranatham,11.11414,76.9914,Coimbatore,Annur,Sarkar Samakulam,09-12-2024
+TPRMADMAD19,0.0,Madathukulam,10.55724,77.36445,Tiruppur,Madathukkulam,Madathukulam,09-12-2024
+CGLPALPAL21,0.0,Pallavaram,12.95096,80.15772,Chengalpattu,Pallavaram,Pallavaram,09-12-2024
+NGPNAGTHU6,0.0,Thirumarugal,10.86999,79.73745,Nagapattinam,Nagapattinam,Thiurmarugal,09-12-2024
+VNRSRIPIL40,0.0,Valaikulam,9.540853,77.5607,Virudhunagar,Srivlliputhur,Pillaiyarkulam,09-12-2024
+PDKPUDPUD35,0.0,Pudukkottai,10.378,78.81683,Pudukkottai,Pudukkottai,Pudukkottai,09-12-2024
+SVGTHITHR70,5.6,Tripuvanam,9.817879,78.26963,Sivagangai,,Thiruppuvanam,09-12-2024
+MDUUSIUSI31,0.0,Usilampatti,9.962842,77.78754,Madurai,Usilampatti,Usilampatti,09-12-2024
+TRYTHUTHU11,0.0,Murugur,11.1665,78.59619,Thiruchirappalli,Thuraiyur,Thuraiyur,09-12-2024
+SLMTHATHA44,0.0,Pacs,11.64151,78.75355,Salem,Attur,Thalaivasal,09-12-2024
+TRYMANVAI47,0.0,Pudhuvadi Pudur,10.50337,78.1837,Dindigul,Vedasandur,Vedasandur_R.F,09-12-2024
+SVGKARKAL3,0.8,Kallal,9.990898,78.66244,Sivagangai,Karaikudi,Kallal,09-12-2024
+CGLTHRTHI29,0.0,Thiruporur,12.71964,80.18615,Chengalpattu,Thirupporur,Thirupporur,09-12-2024
+RMDPARNAI21,0.0,Karadarthakudi,9.562369,78.73963,Ramanathapuram,Paramakudi,Nainarkovil,09-12-2024
+SLMVALBEL4,0.0,Kankattu Aala,11.82213,78.41552,Salem,Valapady,Belur,09-12-2024
+TUTVILVEM47,0.0,Surangudi,9.107172,78.32005,Thoothukudi,Vilathikulam,Vembar,09-12-2024
+CBEPERMAD19,0.0,Thenkarai,10.94552,76.84258,Coimbatore,Perur,Madampatty,09-12-2024
+CGLCHECHE3,0.0,Kattankolathur,12.81128,80.02911,Chengalpattu,Chengalpattu,Kattankolathur,09-12-2024
+DPINALIND6,0.0,Indur,12.13149,78.05746,Dharmapuri,Nallampalli,Indur,09-12-2024
+KARKARVEL33,0.0,Jegathabi,10.84087,78.1646,Karur,Karur,Velliannai,09-12-2024
+CHN02Z015W4,0.0,Edayanchavad,13.21827,80.2739,Chennai,Manali,Ward 15 (Edayanchavadi),09-12-2024
+MDUTHITHI35,0.0,Thirupparankundram,9.884085,78.04943,Madurai,,Thirupparankundram,09-12-2024
+SVGSINVAR43,0.0,Ulagampatti,10.32705,78.50352,Sivagangai,Singampunari,Varappur,09-12-2024
+TRYLALKEE16,0.0,Komakudi,10.89979,78.88138,Thiruchirappalli,Lalgudi,Keelanbil,09-12-2024
+NLGUDHTHU28,0.0,Thuneri,11.46005,76.75022,Nilgiris,Udhagai,Thuneri,09-12-2024
+TLRTIRMAP16,0.0,Mappedu,13.02965,79.85803,Tiruvallur,Tiruvallur,Mappedu,09-12-2024
+KGIKRIVEP51,0.0,Nerlagiri,12.75157,78.13466,Krishnagiri,Krishnagiri,Veppanapalli,09-12-2024
+ERDEROERW15,0.0,Nasiyanur,11.34007,77.63948,Erode,Erode,Erode (West),09-12-2024
+TNJORATHE23,0.0,Pinnaiyur (West),10.57648,79.22565,Thanjavur,Orathanad,Thekkur,09-12-2024
+MYDSIRMAA10,0.0,Madhanam,11.29621,79.76148,Mayiladuthurai,Sirkazhi,Maadhanam,09-12-2024
+KGIANCANC5,0.0,Thoddamanju,12.35834,77.72253,Krishnagiri,Anchetty,Anchetty,09-12-2024
+DPIPAPPAP24,0.0,Paparapatti,12.20252,78.05214,Dharmapuri,Pappireddipatti,Pappireddipatti,09-12-2024
+THNUTHCUM6,0.0,Cumbum,9.731799,77.2799,Theni,Uthamapalayam,Cumbum,09-12-2024
+TUTETTKAD8,0.0,Kadalaiyur,9.201752,77.94314,Thoothukudi,Ettayapuram,Kadalaiyoor,09-12-2024
+TPRUDUKUR16,0.0,Elayamuthur,10.48583,77.29752,Tiruppur,Udumalpet,Kurichikottai,09-12-2024
+TKSALAPUD19,0.0,Kuthapanjan,8.827446,77.46625,Tenkasi,Alangulam,Pudupatti,09-12-2024
+RMDRAJSHO34,0.0,Chitturvadi,9.648153,78.91555,Ramanathapuram,Rajasingamangalam,Sholandur,09-12-2024
+THNAUNKAN12,0.0,Vallalnadhi,9.91942,77.52199,Theni,Aundipatti,Kandamanur,09-12-2024
+VNRSIVMAN17,0.0,Erichanatha M,9.605729,77.80215,Virudhunagar,Sivakasi,Mangalam,09-12-2024
+ARISENSEN12,0.0,Ottakovil,11.1882,79.11182,Ariyalur,Ariyalur,Ariyalur,09-12-2024
+CHN11Z150W37,0.0,Porur,13.04075,80.1466,Tiruvallur,Poonamallee,Vanagaram,09-12-2024
+TUTKAYKAD11,0.0,Kalugasalapuram,9.05275,77.86415,Thoothukudi,Kayathar,Kadambur,09-12-2024
+TKSTENKAD8,0.0,Govindaperi,8.815702,77.34163,Tenkasi,Tenkasi,Kadayam,09-12-2024
+CHN07Z091W26,0.0,Mogappair,13.08314,80.17418,Chennai,Ambattur,Ward 91 (Ambattur),09-12-2024
+MYDKUTMAN4,0.0,Manganallur,11.02614,79.6516,Mayiladuthurai,Kuthalam,Manganallur,09-12-2024
+TVRKOOKOO15,0.0,Lakshmangudi,10.71774,79.52244,Thiruvarur,Koothanallur,Koothanallur,09-12-2024
+THNBODRAS19,0.0,B. Meenatchipuram,9.994139,77.37232,Theni,Bodinayakanur,Rasingapuram,09-12-2024
+MYDSIRPUT38,0.0,Thirumailadi,11.32927,79.72081,Mayiladuthurai,,Puthur,09-12-2024
+SLMSAWTHI48,0.0,Keeraipappambadi,11.67358,78.05976,Salem,Salem (West),Thirumalaigiri,09-12-2024
+KKMTHOAZH2,0.0,Thadikarakonam,8.32922,77.41622,Kanniyakumari,Thovalai,Azhagiapandipuram,09-12-2024
+SLMGANPAC31,0.0,Veppadai,11.38307,78.64686,Salem,Ganagavalli,Pachamalai,09-12-2024
+NLGPANCHE6,0.0,Ovalley -1,11.42854,76.49159,Nilgiris,Gudalur,O Veli,09-12-2024
+NMKNAMSEL22,0.0,Sellappampatti,11.30988,78.16842,Namakkal,Namakkal,Sellappampatti,09-12-2024
+TPRUDUPED26,0.0,Pethappampatti,10.68027,77.21785,Tiruppur,Udumalpet,Peddappampatti,09-12-2024
+PDKAVUPON29,0.0,Ponbethi,9.972017,79.01974,Pudukkottai,Avudaiyarkoil,Ponpethi,09-12-2024
+CGLCHYSOO27,0.0,Kokkarathangal,12.33529,79.92556,Chengalpattu,Cheyyur,Soonampedu,09-12-2024
+KALKALNAG17,0.0,Varanjaram,11.65443,79.08239,Kallakurichi,Kallakurichi,Nagalur,09-12-2024
+TKSVKPVEE30,0.0,Veerakeralampudhur,8.933755,77.44769,Tenkasi,V.k.pudur,Veerakeralampudur,09-12-2024
+VNRSATNAL19,0.0,Karisalpatti,9.261698,77.8611,Virudhunagar,Sattur,Nalli,09-12-2024
+DGLDINSAN48,0.0,Koovanuthu,10.30482,78.02793,Dindigul,Dindigul (East),Sanarpatti,09-12-2024
+TNJORASIL79,0.0,Vettikadu,10.56989,79.19553,Thanjavur,,Sillathur,09-12-2024
+TUTETTMUT21,0.0,Muthulapuram,9.235767,78.0311,Thoothukudi,Ettayapuram,Muthulapuram,09-12-2024
+DGLKODKOD20,0.0,Kookal,10.2955,77.40707,Dindigul,Kodaikanal,Kodaikanal,09-12-2024
+TRYMUSTPE33,0.4,Thathaiyangarpet,11.12236,78.44858,Thiruchirappalli,Musiri,T.Pet,09-12-2024
+ERDANTANT4,0.0,Sankarapalayam,11.63128,77.58317,Erode,Anthiyur,Anthiyur,09-12-2024
+TRYMARMAR43,0.0,Ayanporuvai,10.40984,78.4844,Thiruchirappalli,Marungapuri,Marungapuri,09-12-2024
+TPRKANNAT23,0.0,Kuttapalayam,11.07995,77.68845,Tiruppur,Kangeyam,Nathakadayur,09-12-2024
+CBESULKAR11,0.0,Somanur,11.08564,77.19082,Coimbatore,Sulur,Karumathampatty,09-12-2024
+CUDVEPVEP35,0.0,A.Marur,11.62355,79.08718,Cuddalore,Veppur,Veppur,09-12-2024
+CUDSRITHI26,0.0,Gunamangalam,11.43388,79.38417,Cuddalore,Srimushanam,Srimushnam,09-12-2024
+NMKKUMKUM43,0.0,Pallipalayam,11.44124,77.68941,Namakkal,,Kumarapalayam,09-12-2024
+TNJTHRKAT8,0.0,Mullukudi,11.09289,79.53344,Thanjavur,Thiruvidaimaruthur,Kathiramangalam,09-12-2024
+NMKNAMKEE6,0.0,Keerambur,11.19774,78.08884,Namakkal,Namakkal,Keerambur,09-12-2024
+TLRTIRVEN33,0.0,Melnallathur,13.08676,79.90795,Tiruvallur,Tiruvallur,Vengathur,09-12-2024
+CHN06Z068W19,0.0,Selaivoyal,13.12207,80.23355,Chennai,Thiru. Vi. Ka. Nagar,Ward 68 (Thiru.Vi. Ka Nagar),09-12-2024
+KGIDENTHA43,0.0,Gummalapuram,12.65653,77.66556,Krishnagiri,Denkanikottai,Thalli,09-12-2024
+VPMMELAVA7,0.0,Periyanolambai,12.44092,79.33446,Villupuram,Melmalaiyanur,Avalaurpet,09-12-2024
+KKMTHOTHO17,0.0,Chenparamanputhoor,8.265882,77.5042,Kanniyakumari,Thovalai,Thovalai,09-12-2024
+CUDTITPEN20,0.0,Kilimangalam,11.41774,79.29759,Cuddalore,Titagudi,Pennadam,09-12-2024
+DGLNILPIL41,0.0,Ethilodu,10.1086,77.87418,Dindigul,Nilakottai,Pillaiyar Natham,09-12-2024
+TNJTHATHA22,0.0,Neelagiri Therku Thottam,10.7565,79.10113,Thanjavur,Thanjavur,Thanjavur,09-12-2024
+DGLDIDRED16,0.0,Silvarpatty,10.43813,77.91711,Dindigul,,Rediyarchatiram,09-12-2024
+SVGKALNAT14,0.0,Kollangudi,9.856242,78.59554,Sivagangai,Kalaiyarkovil,Natarasankottai,09-12-2024
+MDUVADTHA25,0.0,Thanichiam,10.02942,78.01154,Madurai,Vadipatti,Thanichayam,09-12-2024
+KALKALIND8,0.0,Indhili,11.68807,78.92648,Kallakurichi,Kallakurichi,Indhili,09-12-2024
+TVMKILKIL16,0.0,Kilpennathur,12.24967,79.21922,Tiruvannamalai,Kilpennathur,Kilpennathur,09-12-2024
+RMDRAJSHO33,0.0,Thumbadaikakottai,9.598743,78.84906,Ramanathapuram,Rajasingamangalam,Sholandur,09-12-2024
+DPIHARTHE38,0.0,Theerthamalai,12.10302,78.59294,Dharmapuri,Harur,Theerthamalai,09-12-2024
+CHN02Z019W9,0.0,Manjambakkam,13.16351,80.22823,Chennai,Manali,Ward 19 (Mmda Mathur),09-12-2024
+SLMVALVAL68,0.0,Sarkar Valapady,11.65824,78.397,Salem,,Valapady,09-12-2024
+TUTTIRTIR41,0.0,Ammanpuram,8.564862,78.06409,Thoothukudi,Tiruchendur,Tiruchendur,09-12-2024
+TLRTIUKAN8,0.0,Kanagamachatram,13.20713,79.69588,Tiruvallur,Tiruttani,Kanagammachatram,09-12-2024
+DPIPALVEL45,0.4,Karukkanahalli,12.35614,78.07871,Dharmapuri,Palacode,Vellichanthai,09-12-2024
+NLGKUNKUN17,0.0,Kilkundah,11.26541,76.65168,Nilgiris,Kundah,Kundah,09-12-2024
+TVMCHENED27,0.0,Nedungunam,12.46106,79.36688,Tiruvannamalai,Chetpet,Nedungunam,09-12-2024
+ERDANTAMM3,0.0,Ammapettai (A),11.63767,77.72705,Erode,Anthiyur,Ammapettai,09-12-2024
+TLRTIUKAN9,0.0,Kanagamachatram,13.20716,79.74744,Tiruvallur,Tiruttani,Kanagammachatram,09-12-2024
+THNAUNMYL29,0.0,Mayiladumparal,9.726201,77.51815,Theni,Aundipatti,Myladumparai,09-12-2024
+TVMJAMNAM25,0.0,Veerapanur,12.62659,78.9142,Tiruvannamalai,Jamunamarathoor,Nammiyempattu,09-12-2024
+TKSALANET16,0.0,Nettur,8.905133,77.53547,Tenkasi,Alangulam,Nettur,09-12-2024
+CUDBHUPAR19,0.0,Vayalamur,11.50198,79.6643,Cuddalore,Bhuvanagiri,Parangipettai,09-12-2024
+KARKRIKAT11,0.0,Renganathapuram (South),10.92172,78.19244,Karur,Krishnarayapuram,Kattalai,09-12-2024
+ARIARIKEE5,0.0,T.Palur,11.09553,79.36735,Ariyalur,Udayarpalayam,T.Palur,09-12-2024
+THNAUNMYL15,0.0,Myladumparai,9.735254,77.52019,Theni,Aundipatti,Myladumparai,09-12-2024
+TVMPOLSAN38,0.4,Pushpagiri,12.64595,79.1585,Tiruvannamalai,Polur,Santhavasal,09-12-2024
+VELANAANA3,0.0,Anaicut,12.86706,78.98552,Vellore,Anaicut,Anaicut,09-12-2024
+SVGTHRILA2,0.0,North Ilayathangudi,10.20071,78.6506,Sivagangai,Thirupattur,Ilayathankudi,09-12-2024
+TLRTIUTIU28,0.0,Viyasapuram,13.10718,79.73267,Tiruvallur,Tiruttani,Tiruvalangadu,09-12-2024
+KPMKANSIR8,0.0,Sirukaveripakkam,12.85949,79.67862,Kancheepuram,Kancheepuram,Sirukaveripakkam,09-12-2024
+KKMVILARU1,0.0,Arumanai,8.37726,77.24623,Kanniyakumari,Vilavancode,Arumanai,09-12-2024
+DGLPALKOR25,0.0,Pushpathur,10.5465,77.39182,Dindigul,Palani,Korikkadavu,09-12-2024
+CGLTHITHI28,0.0,Thirukazhukundram,12.61637,80.0569,Chengalpattu,Thirukkalukundram,Thirukkalukundram,09-12-2024
+THNTHETHE20,0.0,Theni Allinagaram,10.01995,77.478,Theni,Theni,Theni,09-12-2024
+ARIUDATPA19,0.0,Meensurutty,11.24218,79.47849,Ariyalur,Udayarpalayam,Kundaveli,09-12-2024
+SLMKADSEM43,0.0,Poosaripatti,11.83688,78.0651,Salem,Kadayampatti,Semmandapatti,09-12-2024
+RMDTHITHI41,0.0,Tiruvadanai,9.781724,78.91858,Ramanathapuram,Thiruvadani,Thiruvadanai,09-12-2024
+NMKRASMUL12,0.0,Mullukurichi,11.44696,78.40254,Namakkal,Rasipuram,Mullukurichi,09-12-2024
+RMDRAJSHO32,0.0,Uppur Govt.High School,9.614013,78.92813,Ramanathapuram,Rajasingamangalam,Sholandur,09-12-2024
+SVGTHRNER17,2.8,Nerkuppai,10.22438,78.53728,Sivagangai,Thirupattur,Nerkuppai,09-12-2024
+PMBALACHE3,0.0,Padalur (E),11.10622,78.84449,Perambalur,Alathur,Chettikulam,09-12-2024
+VELGUDGUI5,0.0,Kottamitta,13.03713,78.85576,Vellore,Gudiyatham,Gudiyatham (West),09-12-2024
+KGIUTHSIN42,0.0,Maganoorpatti,12.32513,78.58224,Krishnagiri,Uthangarai,Singarapatai,09-12-2024
+NGPVEDTHL12,0.8,Naluvethapathi,10.49726,79.84771,Nagapattinam,Vedaranyam,Thalanayar,09-12-2024
+NLGKOTKIL13,0.0,Denad,11.44212,76.95136,Nilgiris,Kotagiri,Kil kothagiri,09-12-2024
+DGLVEDVAD20,0.0,Padiyur,10.41809,78.03022,Dindigul,,Vadamadurai,09-12-2024
+TVMCHEDEV7,0.0,Devikapuram,12.4981,79.24841,Tiruvannamalai,Chetpet,Devigapuram,09-12-2024
+DPIPALPUL35,0.0,Pulikarai,12.21397,78.11939,Dharmapuri,Palacode,Pulikarai,09-12-2024
+NMKPARPAR19,0.0,Pillur,11.19981,78.02021,Namakkal,Paramathi velur,Paramathi,09-12-2024
+NLGKOTKOT16,0.0,Kotagiri,11.42322,76.86364,Nilgiris,Kotagiri,Kothagiri,09-12-2024
+TPRMADTHU42,0.0,Thungavi,10.62526,77.32821,Tiruppur,Madathukkulam,Thungavi,09-12-2024
+KGISHOUTH49,0.0,Devasanapalli,12.61558,77.95212,Krishnagiri,Shoolagiri,Uthanapalli,09-12-2024
+PDKAVUMEE24,0.0,Mimisal,9.920562,79.14004,Pudukkottai,Avudaiyarkoil,Meemisal,09-12-2024
+TUTKAYKAY14,0.0,Akilandapuram,8.97978,77.80399,Thoothukudi,Kayathar,Kayathar,09-12-2024
+DPIPAPKAD8,0.0,Kadathur,12.08738,78.29013,Dharmapuri,Pappireddipatti,Kadathur,09-12-2024
+CGLPALPAM23,0.0,Pozhichalur,12.9889,80.14212,Chengalpattu,Pallavaram,Pammal,09-12-2024
+KALULUKAL9,0.0,Kalamarudhur,11.76896,79.30912,Kallakurichi,Ulundurpet,Kalamarudhur,09-12-2024
+SVGILASOO33,0.0,Sooranam,9.692791,78.72173,Sivagangai,Ilayankudi,Sooranam,09-12-2024
+TNJPERAAV2,0.0,Periyanayagipuram,10.33084,79.14191,Thanjavur,Peravurani,Aavanam,09-12-2024
+CBEANAMAR21,0.0,Subbengoundenputhur,10.62846,76.93329,Coimbatore,Anaimalai,Marchanayekanpalayam,09-12-2024
+TVMVANVAN56,0.0,Venkuntram,12.52107,79.6006,Tiruvannamalai,Vandavasi,Vandavasi,09-12-2024
+CBEMETKAR7,0.0,Chikkadasampalayam,11.31121,76.95139,Coimbatore,Mettupalayam,Karamadai,09-12-2024
+PDKAVUEMB5,2.0,Embal,10.02315,78.95692,Pudukkottai,Avudaiyarkoil,Embal,09-12-2024
+CHN07Z085W24,0.0,Perumalpet,13.11382,80.14587,Chennai,Ambattur,Ward 85 (Ambattur),09-12-2024
+SVGDEVPUL24,0.0,Selugai,9.758583,78.88209,Sivagangai,Devakottai,Puliyal,09-12-2024
+KGIBARPAL31,0.0,Orappam,12.53507,78.28185,Krishnagiri,Bargur,Pallepalli,09-12-2024
+SLMMETMET26,0.0,Mettur,11.7838,77.80046,Salem,Mettur,Mettur Town,09-12-2024
+SVGKARKAR8,0.4,Amaravathi Pudur,10.01724,78.76805,Sivagangai,Karaikudi,Karaikudi,09-12-2024
+RPTSHOVEL16,0.0,Velam,12.99078,79.3719,Ranipet,Sholingur,Velam,09-12-2024
+SLMSANSAN40,0.0,Katheri,11.45746,77.72521,Salem,Sankari,Sankagiri (West),09-12-2024
+CHN09Z111W32,0.0,Thousand Lights,13.06873,80.25087,Chennai,Teynampet,Ward 111 (Thousand Lights),09-12-2024
+KGIKRIVEP52,0.0,Nachikuppam,12.71697,78.16228,Krishnagiri,Krishnagiri,Veppanapalli,09-12-2024
+SVGSIVOKK18,0.0,Okkur,9.942231,78.51932,Sivagangai,Sivagangai,Okkur,09-12-2024
+CBEPOLKOL15,0.0,Sinjuvadi,10.59518,77.13038,Coimbatore,Pollachi,Kolarpatty,09-12-2024
+CBEKINKIN13,0.0,Kothavadi,10.80643,77.05123,Coimbatore,Kinathukadavu,Kinathukadavu,09-12-2024
+TVRVALAAL24,0.0,Alangudi,10.83043,79.40385,Thiruvarur,Valangaiman,Aalangudi,09-12-2024
+TVRMANULL22,0.0,Kandithampettai,10.59738,79.4257,Thiruvarur,Mannargudi,Ullikottai,09-12-2024
+KKMTHITHR19,0.0,Kalikesam,8.409122,77.39002,Kanniyakumari,Thiruvattar,Thiruvattar_R.F,09-12-2024
+SVGMANMUT12,0.4,Muthanendal,9.748278,78.3903,Sivagangai,Manamadurai,Muthanenthal,09-12-2024
+VELKATMEL10,0.0,Melpadi,13.06225,79.27949,Vellore,Katpadi,Melpadi,09-12-2024
+KGIPOCPOC33,0.0,Jambukuttapatti,12.32933,78.36077,Krishnagiri,Pochampalli,Pochampalli,09-12-2024
+NLGUDHUDA33,0.0,Udhagai_R.F,11.47753,76.54285,Nilgiris,Udhagai,Udhagai_R.F,09-12-2024
+TRYMANPAN25,0.0,Pannapatti,10.51453,78.38179,Thiruchirappalli,Manapparai,Pannapatty,09-12-2024
+TVRNANPER17,0.0,Peralam,10.95979,79.66129,Thiruvarur,Nannilam,Peralam,09-12-2024
+VNRSRIMAL13,0.0,Puvani,9.541522,77.67305,Virudhunagar,Srivlliputhur,Malli,09-12-2024
+SLMSASVEE52,0.0,Veerapandi,11.59111,78.07585,Salem,Salem (South),Veerapandy,09-12-2024
+MYDTHATHR13,0.0,Neduvasal,11.04347,79.76351,Mayiladuthurai,Tharangambadi,Thiruvilaiyattam,09-12-2024
+VPMGINMEL23,0.0,Mel Ollakkur,12.33905,79.48922,Villupuram,Gingee,Mel Olakkur,09-12-2024
+VPMVILKAD100,0.0,Kandamangalam,11.86365,79.6753,Villupuram,,Kandamangalam,09-12-2024
+VELPERPER16,0.0,Kokkalur,12.97179,78.73229,Vellore,Pernambut,Pernambut,09-12-2024
+PDKTHIVIR44,0.0,Panaiyapatti,10.31034,78.67678,Pudukkottai,Thirumayam,Virachilai,09-12-2024
+NLGKOTNED22,0.0,Kallampalayam,11.51568,77.00052,Nilgiris,Kotagiri,Nedugula,09-12-2024
+CHN14Z190W47,0.0,Pallikarani,12.92469,80.20542,Chennai,Perungudi,Ward 190 (Perungudi),09-12-2024
+VELKVKVAD21,0.0,Kalampattu,13.01287,79.03975,Vellore,K v kuppam,Vaduganthangal,09-12-2024
+RMDMUDKAK8,0.0,Kakkor,9.348635,78.5679,Ramanathapuram,Mudukulathur,Kakkoor,09-12-2024
+VNRVEMALA1,0.0,Alangulam,9.367442,77.67792,Virudhunagar,Vembakkottai,Alangulam,09-12-2024
+KALULUERA6,0.0,Eraiyur,11.79248,79.19447,Kallakurichi,Ulundurpet,Eraiyur,09-12-2024
+VELANAPAL14,0.0,Pallikonda,12.91107,78.93932,Vellore,Anaicut,Pallikonda,09-12-2024
+TPRDHAKUN11,0.0,Manurpalyam,10.81131,77.33255,Tiruppur,Dharapuram,Kundadam,09-12-2024
+TUTKOVKAL12,0.0,Uthupattti,9.109936,77.8541,Thoothukudi,Kovilpatty,Kalugumalai,09-12-2024
+ERDSATSAT30,0.0,Puthupeerkadavu,11.52373,77.12363,Erode,Sathyamangalam,Sathyamangalam,09-12-2024
+CBECOMTHU42,0.0,Thudiyalur,11.08246,76.94336,Coimbatore,Coimbatore (North),Thudiyalur,09-12-2024
+RPTSHOBAN4,0.0,Banavaram,13.01093,79.48839,Ranipet,Sholingur,Banavaram,09-12-2024
+TUTVILKUL18,0.0,Kulathur,9.003643,78.19043,Thoothukudi,Vilathikulam,Kulathur,09-12-2024
+SLMOMATHA64,0.0,Thesavilaku Sout,11.65427,77.97177,Salem,,Tharamangalam,09-12-2024
+ARIARIKEE2,0.0,Sathamangalam,10.99726,79.08499,Ariyalur,,Keelapalur,09-12-2024
+DPIHARMOR17,0.0,Navalai,12.17105,78.35958,Dharmapuri,Harur,Morappur,09-12-2024
+SLMEDAPOO61,0.0,Poolampatti,11.67028,77.78568,Salem,,Poolampatti,09-12-2024
+TKSVKPUTH28,0.0,Balapathiramapuram,9.050365,77.58064,Tenkasi,V.k.pudur,Uthumalai,09-12-2024
+KARKULNAN17,0.0,Suriyanur,10.84625,78.57538,Karur,Kulithalai,Nangavaram,09-12-2024
+MDUUSIUTH33,0.0,Seemanuthu,9.979558,77.79021,Madurai,Usilampatti,Uthappanayakanur,09-12-2024
+TNVMANVAN38,0.0,Devarkulam,8.961263,77.63338,Tirunelveli,Manur,Vannikonendal,09-12-2024
+PDKGANPUD34,0.0,Ariyanipatti,10.64386,79.0299,Pudukkottai,Gandarvakottai,Pudhunagar,09-12-2024
+DPIPENSUN37,0.0,Nagamarai,11.92335,77.76857,Dharmapuri,Pennagaram,Sunjalnatham,09-12-2024
+TVRMUTMUT14,0.0,Muthupettai,10.39915,79.49702,Thiruvarur,Muthupettai,Muthupettai,09-12-2024
+TLRPONKOL13,0.0,Kolur (2),13.43006,80.22835,Tiruvallur,Ponneri,Kolur,09-12-2024
+RMDTHITHI55,0.0,Tiruvadanai,9.779951,78.92386,Ramanathapuram,,Thiruvadanai,09-12-2024
+KGIDENAND9,0.0,Kollatti,12.43239,77.80365,Krishnagiri,Denkanikottai,Andevanapalli,09-12-2024
+DGLKODKOD22,0.0,Adukkam,10.26907,77.55192,Dindigul,Kodaikanal,Kodaikanal,09-12-2024
+VNRARUPAN27,0.0,Amanakunatham,9.455402,78.05061,Virudhunagar,Aruppukottai,Pandalgudi,09-12-2024
+KARKADKAD8,0.0,Edayapatti (West),10.59383,78.18889,Karur,Kadavur,Kadavur,09-12-2024
+TVRKUDTHI18,0.0,Vadugakudi,10.94828,79.59426,Thiruvarur,Kudavasal,Thiruvezhimizhalai,09-12-2024
+RMDMUDTHE37,0.0,Theiru Veli,9.320809,78.61647,Ramanathapuram,Mudukulathur,Theriruveli,09-12-2024
+DGLATHATH15,0.0,Athoor,10.29861,77.88162,Dindigul,,Athoor,09-12-2024
+VNRARUPAN26,0.0,Pandalgudi,9.392508,78.10347,Virudhunagar,Aruppukottai,Pandalgudi,09-12-2024
+TVMCHNPAC30,0.0,Aratavadi,12.23048,78.79837,Tiruvannamalai,Chengam,Pachal,09-12-2024
+PDKPONKAR11,0.0,Karaiyur,10.3726,78.60425,Pudukkottai,Ponnamaravathi,Karaiyur,09-12-2024
+TPTVANVAN19,0.0,Govindapuram,12.67627,78.61617,Tirupathur,Vaniyambadi,Vaniyambadi,09-12-2024
+PDKMANMAN23,0.0,Manamelkudi,10.03788,79.23155,Pudukkottai,Manamelkudi,Manamelkudi,09-12-2024
+DPIPENSUN36,3.2,Sunchalnattham,12.01084,77.80086,Dharmapuri,Pennagaram,Sunjalnatham,09-12-2024
+DGLPALKOR26,0.0,Korikadavu,10.55595,77.47876,Dindigul,Palani,Korikkadavu,09-12-2024
+TUTKAYCHE5,0.0,Vanaramutti,9.143193,77.78835,Thoothukudi,Kayathar,Chettikurichi,09-12-2024
+TVMTHATHA44,0.0,Thenmudiyanur,12.13092,78.94812,Tiruvannamalai,Thandrampet,Thandarampet,09-12-2024
+KKMAGARAJ13,0.0,Dharmapuram (North),8.131584,77.40641,Kanniyakumari,Agastheeswaram,Rajakkamangalam,09-12-2024
+ARIARIKEE6,0.0,Keelapalur,11.04346,79.06932,Ariyalur,Ariyalur,Keelapalur,09-12-2024
+TPRDHAKUN12,0.0,Erakampatti,10.8263,77.3858,Tiruppur,Dharapuram,Kundadam,09-12-2024
+SVGSINSSK34,0.0,S.Mathur,10.10911,78.49345,Sivagangai,Singampunari,S.S.Kottai,09-12-2024
+RMDRAMMAN15,0.0,Enmanam Kondan,9.31292,79.00949,Ramanathapuram,Ramanathapuram,Mandapam,09-12-2024
+KGIPOCNAG28,0.0,Kaveripattinam,12.35311,78.28865,Krishnagiri,Pochampalli,Nagarasampatti,09-12-2024
+THNPERDEV9,0.0,Dewathanpatti,10.14618,77.63772,Theni,Periyakulam,Devathanapatti,09-12-2024
+TUTOTTPAR27,0.0,Parivallikottai,8.857841,77.84372,Thoothukudi,Ottapidaram,Parivallikottai,09-12-2024
+TNVPALMEL19,0.0,Melapattam,8.762212,77.77599,Tirunelveli,Palayamkottai,Melapattam,09-12-2024
+TUTOTTPAS28,0.0,Pasuvanthanai,8.998765,77.96297,Thoothukudi,Ottapidaram,Pasuvandanai,09-12-2024
+KPMKANPAR7,0.0,Paranthur A,12.94357,79.73675,Kancheepuram,Kancheepuram,Paranthur,09-12-2024
+THNUTHUTH25,0.0,Uthamapalayam (North),9.812788,77.32784,Theni,Uthamapalayam,Uthamapalayam,09-12-2024
+ERDKODSIV34,0.0,Sivagiri (A),11.12784,77.80646,Erode,Kodumudi,Sivagiri,09-12-2024
+SLMSALVAL50,0.0,Valasaiyur,11.70209,78.2493,Salem,Salem,Valasaiyur,09-12-2024
+CBEANAKOT16,0.0,Anaimalai,10.5474,77.01982,Coimbatore,Anaimalai,Kottur,09-12-2024
+SLMSANSAK66,0.0,Sankari,11.48439,77.87173,Salem,,Sankari (East),09-12-2024
+NLGCOOKET10,0.0,Ketti-2,11.38175,76.73128,Nilgiris,Coonoor,Ketty,09-12-2024
+MYDMAYMAY5,0.0,Mayiladuthurai,11.09703,79.65032,Mayiladuthurai,Mayiladuthurai,Mayiladuthurai,09-12-2024
+TNVRADLEV13,0.0,Erukandurai,8.187173,77.64908,Tirunelveli,Radhapuram,Levinjipuram,09-12-2024
+DGLODDKAL18,0.0,Kallimandayam,10.59137,77.68498,Dindigul,Oddenchatram,Kallimanthayam,09-12-2024
+TRYMUSMUS22,0.0,Sukkampatti,10.99735,78.57313,Thiruchirappalli,Musiri,Musiri,09-12-2024
+TRYSRIMAN40,0.0,Kallikudi (South),10.72754,78.63189,Thiruchirappalli,Srirangam,Manikandam,09-12-2024
+NMKKUMPAL17,0.0,Aanangur,11.39388,77.82881,Namakkal,Kumarapalayam,Pallipalayam,09-12-2024
+CGLMADJAM7,0.4,Zamin Endathur,12.45867,79.934,Chengalpattu,Madhurantakam,Jameen Endathur,09-12-2024
+SLMEDAEDA6,0.0,Chinnamanali,11.58126,77.85209,Salem,Edappady,Edappady,09-12-2024
+KGIDENKAK20,0.0,Kakkadasam,12.56344,77.72035,Krishnagiri,Denkanikottai,Kakkadasam,09-12-2024
+SLMVALKAR16,0.0,Karipatti,11.66507,78.28079,Salem,Valapady,Karipatty,09-12-2024
+CBECOMTHU44,0.0,Velliyankadu,11.11199,76.75786,Coimbatore,Coimbatore (North),Thudiyalur,09-12-2024
+DGLODDPUL43,0.0,Kethayurambu,10.50674,77.8252,Dindigul,Oddenchatram,Puliurnatam,09-12-2024
+TNVTHIVIJ40,0.0,Vijayanarayanam Part -I,8.422702,77.78846,Tirunelveli,Thisayanvilai,Vijayanarayanam,09-12-2024
+TNVNANERU5,0.0,Oochikulam,8.502289,77.58206,Tirunelveli,Nanguneri,Eruvadi,09-12-2024
+CHN01Z003W1,0.0,Ernavur,13.19053,80.31707,Chennai,Thiruvottiyur,Ward 3 (Annai Sivagami Nagar),09-12-2024
+KARARAPAL20,0.0,Periyamanjuveli,10.6678,77.95774,Karur,Aravakurichi,Pallapatti,09-12-2024
+PMBPERPER11,0.0,Siruvachur,11.1886,78.86937,Perambalur,Perambalur,Perambalur,09-12-2024
+TLRPONGNA6,0.0,Gnayiru,13.26143,80.21612,Tiruvallur,Ponneri,Gnayiru,09-12-2024
+KKMTHOTHO16,0.0,Thovalai,8.231068,77.50508,Kanniyakumari,Thovalai,Thovalai,09-12-2024
+TKSALAALA72,0.0,Alangulam,8.868233,77.49069,Tenkasi,,Alangulam,09-12-2024
+TRYLALPUL15,0.0,Pullambadi (North),10.94729,78.90947,Thiruchirappalli,Lalgudi,Pullambadi,09-12-2024
+KALKAVKAL13,0.0,Puthupalapattu,11.89279,78.83158,Kallakurichi,Kalvarayan hills,Kalvarayan hills,09-12-2024
+VNRSIVSIV34,0.0,Satchiyapur Am,9.462327,77.77895,Virudhunagar,Sivakasi,Sivakasi,09-12-2024
+TVMCHYVAD53,0.0,Anakavoor,12.68527,79.50787,Tiruvannamalai,Cheyyar,Vadathandalam,09-12-2024
+CHN01Z012W3,0.0,Sathangadu,13.15392,80.29605,Chennai,Thiruvottiyur,Ward 12 (Kaladipet (South)),09-12-2024
+TRYTHUKAN30,0.0,Vadakkuveli,11.08628,78.54968,Thiruchirappalli,Thuraiyur,Kannanur,09-12-2024
+SVGKALNAT15,0.0,Nattarasankottai,9.87346,78.55389,Sivagangai,Kalaiyarkovil,Natarasankottai,09-12-2024
+CHN02Z016W6,0.0,Kadapakkam,13.1937,80.25762,Chennai,Manali,Ward 16 (Andarkuppam),09-12-2024
+NMKSENSEN46,0.0,Senthamangalam,11.2847,78.2269,Namakkal,,Sendamangalam,09-12-2024
+ARIARIARI1,0.0,Ariyalur (South),11.13648,79.07656,Ariyalur,Ariyalur,Ariyalur,09-12-2024
+CBEANAKOT49,0.0,Kottur Town Panchayat Office,10.54098,76.98245,Coimbatore,Anaimalai,Kottur,09-12-2024
+MDUMELKOT6,0.0,Kottampatti,10.22095,78.37739,Madurai,Melur,Kottampatti,09-12-2024
+TKSSANKAR14,0.0,Karivalamvanthanallur,9.271076,77.54503,Tenkasi,Sankarankovil,Karivalamvanthanallur,09-12-2024
+TVRTHITHI20,0.0,Manakkal,10.82172,79.57421,Thiruvarur,Thiruvarur,Thirukkannamangai,09-12-2024
+TPRDHAPON34,0.0,Govindhapuram,10.70735,77.42245,Tiruppur,Dharapuram,Ponnapuram,09-12-2024
+TUTSRISEI35,0.0,Cherakulam,8.572928,77.81596,Thoothukudi,Srivaikundam,Seidunganallur,09-12-2024
+TVMTHATHN46,0.0,Thanipadi,12.11356,78.84286,Tiruvannamalai,Thandrampet,Thanipadi,09-12-2024
+CBEPERKUN39,0.0,Kuniyamuthur,10.9637,76.9519,Coimbatore,Perur,Kuniamuthur,09-12-2024
+RPTWALVIS17,0.0,Aylam,12.87782,79.25593,Ranipet,Walajah,Visharam,09-12-2024
+VELVELSAT18,0.0,Melmonavur,12.91577,79.09076,Vellore,Vellore,Sathuvachari,09-12-2024
+CHN15ZRFW53,0.0,Chemmanchery,12.87866,80.20864,Chengalpattu,Tambaram,Tambaram_R.F,09-12-2024
+NMKRASRAS45,0.0,Anaipalayam,11.42815,78.16243,Namakkal,,Rasipuram,09-12-2024
+NMKSENERU3,0.0,Erumapatti,11.15981,78.29477,Namakkal,Sendamangalam,Erumapatti,09-12-2024
+CHN08Z095W28,0.0,Mullam,13.09645,80.20499,Chennai,Anna Nagar,Ward 95 (Anna Nagar),09-12-2024
+TPTVANVAN18,0.0,Girisamuthiram,12.69523,78.65005,Tirupathur,Vaniyambadi,Vaniyambadi,09-12-2024
+KARPUGKPA6,0.0,Munnur,10.98612,77.90839,Karur,Pugalur,K paramathi,09-12-2024
+TVMCHNPAC29,0.0,C.Sourpananthal,12.27098,78.8606,Tiruvannamalai,Chengam,Pachal,09-12-2024
+KPMKUNKUN3,0.0,Kolapakkam,13.00995,80.14802,Kancheepuram,Kundrathur,Kolapakkam,09-12-2024
+CGLMADATC1,0.0,Acharapakkam,12.40384,79.81375,Chengalpattu,Madhurantakam,Atcharappakkam,09-12-2024
+ARIUDASUT15,0.0,Suthamalli,11.09944,79.27359,Ariyalur,Udayarpalayam,Suthamaalli,09-12-2024
+SLMSALPAN33,0.0,Panamarathupatti,11.56084,78.16172,Salem,Salem,Panamarathupatti,09-12-2024
+VELGUDGUD4,0.0,Vizhuthonipalayam,13.05036,78.91484,Vellore,Gudiyatham,Gudiyatham (East),09-12-2024
+VNRSRIMAL14,0.0,Venkateswarapuram,9.535445,77.62231,Virudhunagar,Srivlliputhur,Malli,09-12-2024
+KPMWALWAL19,0.0,Arumbuliyur,12.74739,79.86343,Kancheepuram,Uthiramerur,Arumpuliur,09-12-2024
+TLRPONTHI27,0.0,Thirupalaivanam,13.40089,80.24814,Tiruvallur,Ponneri,Thirupalaivanam,09-12-2024
+VPMVILKAD15,0.0,Pakkam,11.86156,79.68309,Villupuram,Villupuram,Kandamangalam,09-12-2024
+VPMVIKKAN19,0.0,Esalam,12.11203,79.50555,Villupuram,Vikkiravandi,Kanjanur,09-12-2024
+KARKULKUL13,0.0,Nallur,10.81855,78.45593,Karur,Kulithalai,Kulithalai,09-12-2024
+CHN08Z094W27,0.0,Konnur,13.10708,80.19834,Chennai,Anna Nagar,Ward 94 (Anna Nagar),09-12-2024
+KARPUGTHE26,0.0,Thennilai (East),10.95183,77.83891,Karur,Pugalur,Thennilai,09-12-2024
+CHN05Z061W17,0.0,Egmore Station,13.07867,80.26568,Chennai,Royapuram,Ward 61 (Egmore),09-12-2024
+KALCHINAI20,0.0,Pakkampadi,11.5517,78.83301,Kallakurichi,Chinnaselam,Nainarpalayam,09-12-2024
+VPMTINTIN43,0.0,Tindivanam,12.21167,79.6363,Villupuram,Tindivanam,Tindivanam,09-12-2024
+TNVAMBAMA45,0.0,Nalumukku,8.551062,77.36082,Tirunelveli,Ambasamudram,Ambasamudiram_R.F,09-12-2024
+VNRTIRNAR21,0.0,Theli,9.646191,78.3814,Virudhunagar,Tiruchuli,Narikudi,09-12-2024
+VPMMARMAR22,0.0,Marakkanam,12.19058,79.94187,Villupuram,Marakkanam,Marakkanam,09-12-2024
+KKMKALKUR9,0.0,Aloor B,8.199023,77.38192,Kanniyakumari,Kalkulam,Kurunthancode,09-12-2024
+TRYTHRNAV24,0.0,Sooriyur,10.66041,78.78818,Thiruchirappalli,Thiruverumbur,Navalpattu,09-12-2024
+TNVTHITIS34,0.0,Kathurirangapuram,8.307783,77.76451,Tirunelveli,Thisayanvilai,Tisayanvilai,09-12-2024
+KALULUSEN23,0.0,Sendhanadu,11.71567,79.41696,Kallakurichi,Ulundurpet,Sengurichi,09-12-2024
+TVRKUDSEL87,0.0,Melathichamangalam,10.81045,79.48263,Thiruvarur,,Sellur,09-12-2024
+TNVCHECHE3,0.0,South Veeravanallur,8.655892,77.51356,Tirunelveli,Cheranmahadevi,Cheranmahadevi,09-12-2024
+SLMGANGAN9,0.0,Nagiyampatti,11.46974,78.48654,Salem,Ganagavalli,Gangavalli,09-12-2024
+NMKSENKAL5,0.0,Vazhavanthi Kombai,11.32919,78.32076,Namakkal,Sendamangalam,Kalappanaickenpatti,09-12-2024
+KALULUERA5,0.0,Pallavadi,11.82122,79.17429,Kallakurichi,Ulundurpet,Eraiyur,09-12-2024
+TVRNEENED20,0.0,Old Needamanglam,10.76871,79.41685,Thiruvarur,Needamangalam,Nedamangalam,09-12-2024
+CBECOMPER29,0.0,Naickepalayam,11.15333,76.91783,Coimbatore,Coimbatore (North),Perianaickenpalayam,09-12-2024
+ARIUDAJAY3,0.0,Jayankondam,11.21516,79.35707,Ariyalur,,Jayankondam,09-12-2024
+SLMYERVEL53,4.0,Vellakadai,11.81714,78.23834,Salem,Yercaud,Vellakadai,09-12-2024
+DGLATHAYY4,0.0,Manaloor,10.2959,77.72917,Dindigul,Athoor,Ayyampalayam,09-12-2024
+TVRMUTMUT88,0.0,Thekkukadu,10.41045,79.49483,Thiruvarur,,Muthupettai,09-12-2024
+VPMTHISIT38,0.4,Sithalingamadam,11.93194,79.28146,Villupuram,Thiruvennainallur,Sithalingamadam,09-12-2024
+TPTNATNAT12,0.0,Pachur,12.58861,78.46054,Tirupathur,Natrampalli,Natrampalli,09-12-2024
+TNJPATNAM14,0.0,Athambai (South),10.44776,79.2587,Thanjavur,Pattukottai,Nambivayal,09-12-2024
+NLGGUDGUD5,0.0,Cherumulli-2,11.53247,76.46434,Nilgiris,Gudalur,Gudalur,09-12-2024
+DPIHARTHE40,0.0,Veppampatti,12.04627,78.56251,Dharmapuri,Harur,Theerthamalai,09-12-2024
+KARKADMYL15,0.0,Kalayappatti,10.77257,78.18544,Karur,Kadavur,Mylampatti,09-12-2024
+KGIANCURI46,0.0,Ulibenda,12.39356,77.64173,Krishnagiri,Anchetty,Urigam,09-12-2024
+TPRKANNAT21,0.0,Nathakadaiyur,11.08567,77.66236,Tiruppur,Kangeyam,Nathakadayur,09-12-2024
+ERDPERCHE11,0.0,Attavanaipidariyur,11.16337,77.60151,Erode,Perundurai,Chennimalai,09-12-2024
+TLRTIUPOO22,0.0,Nallatur,13.27486,79.64899,Tiruvallur,Tiruttani,Poonimangadu,09-12-2024
+DGLVEDERI15,0.0,Eriyodu,10.51445,78.06754,Dindigul,Vedasandur,Eriodu,09-12-2024
+SLMMETMEC62,0.0,Mecheri,11.83318,77.94142,Salem,,Mechery,09-12-2024
+TPTVANALA2,0.0,Beemakulam,12.57633,78.80696,Tirupathur,Vaniyambadi,Alangayam,09-12-2024
+CUDPANKAD3,0.0,Thiruvamur,11.76742,79.47804,Cuddalore,Panruti,Kadampuliyur,09-12-2024
+RPTNEMKAV6,0.0,Kodapuram,12.90214,79.46456,Ranipet,Nemili,Kaveripakkam,09-12-2024
+SVGKARPAL21,0.0,Pallathur,10.14551,78.79709,Sivagangai,Karaikudi,Pallathur,09-12-2024
+VPMVIKKAN17,0.0,Nangathur,12.11601,79.41583,Villupuram,Vikkiravandi,Kanjanur,09-12-2024
+KGIKRIPER32,0.0,Thalihali,12.40364,78.24692,Krishnagiri,Krishnagiri,Periyamutur,09-12-2024
+TKSSIVVAS29,0.0,Naranapuram Part - 2,9.276395,77.37385,Tenkasi,Sivagiri,Vasudevanallur,09-12-2024
+KPMSRITHA14,0.0,Mannur,13.02299,79.95522,Kancheepuram,Sriperumbudur,Thandalam,09-12-2024
+CBEMETMET23,0.0,Erumburai,11.36232,77.05947,Coimbatore,Mettupalayam,Mettupalayam,09-12-2024
+PMBVEPVEN17,0.0,Poolambadi (E),11.41135,78.71162,Perambalur,Veppanthattai,Vengalam,09-12-2024
+TNVMANMAN17,0.0,Vagaikulam,8.914162,77.62591,Tirunelveli,Manur,Manur,09-12-2024
+TNVMANVAN39,0.0,Thadiyampatti,8.999464,77.63047,Tirunelveli,Manur,Vannikonendal,09-12-2024
+PDKILLILL7,0.0,Illuppur,10.51548,78.61709,Pudukkottai,Illupur,Illupur,09-12-2024
+TKSTENALW3,0.0,Sivasailam,8.793174,77.31016,Tenkasi,Tenkasi,Alwarkurichi,09-12-2024
+ARIARITHI18,0.0,Elanthaikudam,10.92511,79.02783,Ariyalur,Ariyalur,Thirumanur,09-12-2024
+RMDKADSIK35,0.0,Sikkal,9.245025,78.64435,Ramanathapuram,Kadaladi,Sikkal,09-12-2024
+TKSSANSAN21,0.0,Naduvakurichi Major,9.176839,77.54667,Tenkasi,Sankarankovil,Sankarankovil,09-12-2024
+CBESULSEL35,0.0,Bogampatti,10.90443,77.12221,Coimbatore,Sulur,Selakarichal,09-12-2024
+DGLNATRED46,0.0,Pudur,10.09949,78.17689,Dindigul,Natham,Reddiapatti,09-12-2024
+PDKPONPON31,0.0,Ponwest,10.27258,78.53795,Pudukkottai,Ponnamaravathi,Ponnamaravathi,09-12-2024
+CBEMETKAR8,0.0,Karamadai,11.24335,76.95819,Coimbatore,Mettupalayam,Karamadai,09-12-2024
+TNVNANPOO27,0.0,Karanthaneri,8.555626,77.67308,Tirunelveli,Nanguneri,Poolam,09-12-2024
+NMKPARNAL13,0.0,Nallur,11.27128,77.94586,Namakkal,Paramathi velur,Nallur,09-12-2024
+VELANAODU12,0.0,Melarasampattu,12.68987,78.87795,Vellore,Anaicut,Odugathur,09-12-2024
+RMDRAERAM29,0.0,Pamban,9.284508,79.22542,Ramanathapuram,Rameswaram,Rameswaram,09-12-2024
+TRYMARTHU37,2.4,Thethur,10.31606,78.36259,Thiruchirappalli,Marungapuri,Thuvarankuruchi,09-12-2024
+ERDGOBKUG24,0.0,Savundapur (A),11.49193,77.48402,Erode,Gobichettipalayam,Kugalur,09-12-2024
+KPMWALWAL34,0.0,walajabad,12.79427,79.81709,Kancheepuram,,Walajabad,09-12-2024
+TRYTHUKAN12,0.0,Naduvalur,11.09716,78.65158,Thiruchirappalli,Thuraiyur,Kannanur,09-12-2024
+ERDEROERD14,0.0,Suriyampalayam,11.40036,77.6856,Erode,Erode,Erode (North),09-12-2024
+SLMSANERN65,0.0,A.Pudur,11.57237,77.96605,Salem,,Ernapuram,09-12-2024
+RPTNEMPAN10,0.0,Nedumpuli,12.9258,79.57041,Ranipet,Nemili,Panapakkam,09-12-2024
+TPRAVIAVA3,0.0,Rakkiyapalayam,11.16473,77.30895,Tiruppur,Avinashi,Avanashi (East),09-12-2024
+PMBVEPPAS10,0.4,Pasumbalur,11.43177,78.88405,Perambalur,Veppanthattai,Pasumbalur,09-12-2024
+PDKARAPOO33,0.0,Poovai Manager,10.23954,79.04449,Pudukkottai,Aranthangi,Poovathakudi,09-12-2024
+TPRKANUHI43,0.0,Uthiyur,10.89179,77.52686,Tiruppur,Kangeyam,Kangeyam_R.F,09-12-2024
+NLGKUNKUN18,0.0,Mulligoor 2,11.34252,76.68549,Nilgiris,Kundah,Kundah,09-12-2024
+TVRKUDSEL18,0.0,Sellur,10.81075,79.46963,Thiruvarur,Kudavasal,Sellur,09-12-2024
+KGIKRIKUR25,0.0,Kodipalli,12.6278,78.18958,Krishnagiri,Krishnagiri,Kurubrapalli,09-12-2024
+SLMOMATHA45,0.0,Kadaiyam Patti,11.68132,78.00636,Salem,Omalur,Tharamangalam,09-12-2024
+PDKILLKUD19,0.0,Perumanadu,10.37912,78.73719,Pudukkottai,Illupur,Kudumiyanmalai,09-12-2024
+TLRPONPON20,0.0,Naravarikuppam,13.35698,80.1904,Tiruvallur,Ponneri,Ponneri,09-12-2024
+VNRVIROND24,0.4,Ondipulinaickanoor,9.508786,77.89207,Virudhunagar,Virudhunagar,Ondipulinaickanur,09-12-2024
+DGLGUJPAL37,0.0,R.Puthukottai,10.6124,78.05119,Dindigul,Gujiliamparai,Palayam,09-12-2024
+PDKILLKUD20,0.0,Kudumiyanmalai,10.40871,78.66654,Pudukkottai,Illupur,Kudumiyanmalai,09-12-2024
+TPTTIRJOL8,0.0,Kodiyur,12.56895,78.57222,Tirupathur,Tirupattur,Jolarpet,09-12-2024
+TUTSRISRI37,0.4,Srivaikuntam,8.629319,77.91227,Thoothukudi,Srivaikundam,Srivaikundam,09-12-2024
+KARKRIPAN23,0.0,Pothuravuthanpatti,10.83679,78.33373,Karur,Krishnarayapuram,Panjapatti,09-12-2024
+VPMGINGIN13,0.0,Gingee,12.25169,79.41775,Villupuram,Gingee,Gingee,09-12-2024
+KPMWALTHE15,0.0,Theneri,12.85355,79.85365,Kancheepuram,Walajabad,Thenneri,09-12-2024
+TPRKANVEL47,0.0,Valliyarachal,11.01315,77.68116,Tiruppur,Kangeyam,Vellakoil,09-12-2024
+CGLMADLEN11,0.0,L.Endathur,12.51685,79.77147,Chengalpattu,Madhurantakam,L Endaththur,09-12-2024
+THNAUNMYL16,0.0,Kadamalaikundu,9.806781,77.50402,Theni,Aundipatti,Myladumparai,09-12-2024
+TNVPALSIV30,0.0,Sivanthipatti,8.641254,77.78245,Tirunelveli,Palayamkottai,Sivanthipatti,09-12-2024
+VPMVANKIL20,0.0,Kiliyanur,12.10571,79.74305,Villupuram,Vanur,Kiliyanur,09-12-2024
+PDKTHISEN38,0.0,Arimalam,10.25563,78.88573,Pudukkottai,Thirumayam,Senkeerai,09-12-2024
+TUTTIRAUT3,0.0,Kayalpattinam (South),8.568131,78.12019,Thoothukudi,Tiruchendur,Authoor,09-12-2024
+THNAUNMYL27,0.0,Kumananthoulu,9.760571,77.47515,Theni,Aundipatti,Myladumparai,09-12-2024
+SVGDEVPUL23,0.0,Thitakottai,9.84914,78.86317,Sivagangai,Devakottai,Puliyal,09-12-2024
+DGLATHATH1,0.0,Athoor,10.28802,77.84904,Dindigul,Athoor,Athoor,09-12-2024
+DPIKARKAR11,0.0,Nariyanahalli,12.29719,78.15073,Dharmapuri,Karimangalam,Karimangalam,09-12-2024
+TPRTIUSOU40,0.0,South Avinashipalayam,11.0133,77.46872,Tiruppur,Tiruppur (South),South avanashipalayam,09-12-2024
+KALCHIVAD28,0.0,Manmalai,11.82787,78.84604,Kallakurichi,Chinnaselam,Vadakkanandhal,09-12-2024
+SVGMANSEI28,0.0,Manamadurai,9.709692,78.46191,Sivagangai,Manamadurai,Seikalathur,09-12-2024
+TNJTHRTHR27,0.0,Veppathur - 2,11.01339,79.4344,Thanjavur,Thiruvidaimaruthur,Thiruvidaimaruthur,09-12-2024
+THNPERDEV11,0.0,Genguvarpatti,10.16725,77.69466,Theni,Periyakulam,Devathanapatti,09-12-2024
+TUTETTPAD25,0.0,Padarnthapuli,9.142246,78.0391,Thoothukudi,Ettayapuram,Padarndapuli,09-12-2024
+CBEANNANU6,0.0,Pillayapalayam,11.19475,77.09198,Coimbatore,Annur,Annur (South),09-12-2024
+TNJORATHE24,0.0,Pachur,10.61646,79.1511,Thanjavur,Orathanad,Thekkur,09-12-2024
+TNVTHITIS33,0.0,Kuttam,8.322376,77.93748,Tirunelveli,Thisayanvilai,Tisayanvilai,09-12-2024
+THNUTHCUM7,0.0,Narayathevanpatti (South),9.637109,77.35453,Theni,Uthamapalayam,Cumbum,09-12-2024
+CUDCUDMAN10,0.0,Kudikadu,11.68133,79.75819,Cuddalore,Cuddalore,Manjakkuppam,09-12-2024
+KARARACHI3,0.0,T.Vengidapuram,10.85386,77.85201,Karur,Aravakurichi,Chinnadharapuram,09-12-2024
+TRYMARTHU38,0.0,Kannuthu,10.4714,78.27296,Thiruchirappalli,Marungapuri,Thuvarankuruchi,09-12-2024
+TKSTHITHI27,0.0,Vellakulam,9.244346,77.67159,Tenkasi,Thiruvengadam,Thiruvengadam,09-12-2024
+DPIPAPPAP25,0.0,Pikkili,12.24048,78.00804,Dharmapuri,Pappireddipatti,Pappireddipatti,09-12-2024
+KKMVILEDA6,0.0,Edaicode,8.403896,77.18597,Kanniyakumari,Vilavancode,Edaicode,09-12-2024
+DGLPALNEI30,0.0,Neikarapatti,10.44649,77.46573,Dindigul,Palani,Neikkarapatti,09-12-2024
+KARKRIPAN22,0.0,Sivayam (South),10.8119,78.3871,Karur,Krishnarayapuram,Panjapatti,09-12-2024
+TRYTHUUPP44,0.0,Uppiliyapuram,11.26752,78.51609,Thiruchirappalli,Thuraiyur,Uppilliyapuram,09-12-2024
+RMDMUDMUU20,0.0,Mudukulathur (North ),9.356827,78.51848,Ramanathapuram,Mudukulathur,Mudukulathur (North),09-12-2024
+TNJPATTHA21,0.0,Adirampattinam,10.3397,79.39435,Thanjavur,Pattukottai,Thambikkottai,09-12-2024
+TVMPOLSAN40,0.0,Naduauppam,12.65781,79.19811,Tiruvannamalai,Polur,Santhavasal,09-12-2024
+VPMGINSAT33,0.0,Pazhavalam,12.13867,79.27433,Villupuram,Gingee,Sathiyamangalam,09-12-2024
+NLGKOTKIL14,0.4,Konavakorai (2),11.404,76.89286,Nilgiris,Kotagiri,Kil kothagiri,09-12-2024
+SLMMETNAN27,0.0,Nangavalli,11.75145,77.88467,Salem,Mettur,Nangavalli,09-12-2024
+MYDSIRVAI39,0.0,Mayiladuthurai,11.19089,79.67859,Mayiladuthurai,,Vaitheesvaran Koil,09-12-2024
+RMDKAMKOV14,0.0,Kovilankulam,9.275104,78.41923,Ramanathapuram,Kamuthi,Kovilangulam,09-12-2024
+VNRVEMEAL6,0.0,Sankarapandiyapuram,9.291452,77.78535,Virudhunagar,Vembakkottai,Ealayerampannai,09-12-2024
+NMKTIRMAN9,0.0,Koothampoondi,11.32803,78.01697,Namakkal,Tiruchengode,Manickampalayam,09-12-2024
+RMDRAMPER26,0.0,Perunkulam,9.335422,78.95233,Ramanathapuram,Ramanathapuram,Perungulam,09-12-2024
+TRYMANVPE45,0.0,Aniyapur,10.66799,78.332,Thiruchirappalli,Manapparai,V.Periapatty,09-12-2024
+CUDVRIKAM4,0.4,Dharmanallur,11.46378,79.4893,Cuddalore,Virudhachalam,Kammapuram,09-12-2024
+TVMKILSOM41,2.8000000000000003,Kattumalaiynur,12.18924,79.17428,Tiruvannamalai,Kilpennathur,Somasipadi,09-12-2024
+NMKRASMAN8,0.0,Mangalapuram,11.56758,78.3808,Namakkal,Rasipuram,Mangalapuram,09-12-2024
+DGLKODTHA53,0.0,Pachalur,10.36956,77.66784,Dindigul,Kodaikanal,Thandikudi,09-12-2024
+NLGUDHSHO19,0.0,Sholur,11.43731,76.4112,Nilgiris,Gudalur,Gudalur,09-12-2024
+TNJTHAVAL31,0.0,Vallam Vao Office,10.72103,79.05522,Thanjavur,Thanjavur,Vallam,09-12-2024
+TVRTHRTHI93,0.0,Thiruthuraipoondi,10.53828,79.63376,Thiruvarur,,Thiruthuraipoondi,09-12-2024
+ERDANTAMM2,0.0,Illipili,11.64642,77.6832,Erode,Anthiyur,Ammapettai,09-12-2024
+KGIHOSHOS17,0.0,Sevaganapalli,12.83952,77.81754,Krishnagiri,Hosur,Hosur,09-12-2024
+VPMMELMEL98,0.0,Melmalaiyanur,12.34058,79.32853,Villupuram,,Melmalaiyanur,09-12-2024
+DPIPALMAR13,0.0,Marandhalli,12.39246,78.00484,Dharmapuri,Palacode,Marandahalli,09-12-2024
+TVMVEMDUS8,0.0,Dusi,12.77467,79.67664,Tiruvannamalai,Vembakkam,Dusi,09-12-2024
+TRYMNNKAR13,0.4,Edumalai,11.05019,78.72961,Thiruchirappalli,Mannachanallur,Kariyamanikkam,09-12-2024
+DPINALIND7,0.0,Pangunatham,12.1244,78.00673,Dharmapuri,Nallampalli,Indur,09-12-2024
+VELANAODU13,0.0,Odugathur,12.76784,78.88458,Vellore,Anaicut,Odugathur,09-12-2024
+DGLPALPAP40,0.0,R.Vadipatti (North),10.45152,77.42791,Dindigul,Palani,Pappampatti,09-12-2024
+TVMCHYANN2,0.0,Arukavoor,12.63713,79.54252,Tiruvannamalai,Cheyyar,Annakavoor,09-12-2024
+TNJTHANAN28,0.0,Marungulam,10.67973,79.14083,Thanjavur,Thanjavur,Nanjikottai,09-12-2024
+NMKNAMNAM15,0.0,Vasanthapuram,11.1924,78.19038,Namakkal,Namakkal,Namakkal,09-12-2024
+PMBVEPVEN18,0.0,Noothapur,11.46912,78.79785,Perambalur,Veppanthattai,Pasumbalur,09-12-2024
+TVRMANMAN11,0.0,Melavasal,10.66828,79.42038,Thiruvarur,Mannargudi,Mannargudi,09-12-2024
+SLMEDAKON23,0.0,Vellalapuram,11.64379,77.9409,Salem,Edappady,Konganapuram,09-12-2024
+NMKRASRAS21,0.0,Rasipuram,11.45766,78.19445,Namakkal,Rasipuram,Rasipuram,09-12-2024
+TVMVANTHE48,0.0,Thellar,12.40565,79.55063,Tiruvannamalai,Vandavasi,Thellar,09-12-2024
+PDKVIRKOD17,3.2,Kodumbalur,10.54667,78.50011,Pudukkottai,Viralimalai,Kodumpalur,09-12-2024
+VELKATKAT7,0.0,Tharapadavedu,12.99051,79.13313,Vellore,Katpadi,Katpadi,09-12-2024
+DPIKARPER32,0.0,Baisuhalli,12.22135,78.19258,Dharmapuri,Karimangalam,Periyanahalli,09-12-2024
+KALVANARI2,0.0,Ariyalur,11.92958,79.01118,Kallakurichi,Vanapuram,Ariyalur,09-12-2024
+TNJPATTHI26,0.0,Ottankaduukkadai,10.34591,79.24842,Thanjavur,Pattukottai,Thiruchitrambalam,09-12-2024
+TRYTHOELU5,0.4,Elupatti,11.0495,78.26824,Thiruchirappalli,Thottiam,Elurpatti,09-12-2024
+VNRARUMAN15,0.0,Mandapasalai,9.426113,78.20537,Virudhunagar,Aruppukottai,Mandapasalai,09-12-2024
+TNVRADRAD28,0.0,Thiruvanbalapuram,8.253164,77.77503,Tirunelveli,Radhapuram,Radhapuram,09-12-2024
+DGLKODKOD23,0.0,Vellakavi,10.24078,77.50225,Dindigul,Kodaikanal,Kodaikanal,09-12-2024
+NMKTIRELA2,0.0,Agaram,11.38218,78.01149,Namakkal,Tiruchengode,Elachipalayam,09-12-2024
+TUTKAYCHE4,0.0,Chettikurichi,9.058713,77.74723,Thoothukudi,Kayathar,Chettikurichi,09-12-2024
+TPRDHASAN37,0.0,Thottampalayam Nathampalayam,10.84042,77.62797,Tiruppur,Dharapuram,Sangarandampalayam,09-12-2024
+RPTARCTHI15,0.0,Varagur,12.81166,79.23498,Ranipet,Arcot,Thimiri,09-12-2024
+TRYTHUSEN36,0.0,Sengatupatti,11.19851,78.64512,Thiruchirappalli,Thuraiyur,Sengattupatti,09-12-2024
+TRYMUSPUL26,0.0,Pulivalam,11.01277,78.63678,Thiruchirappalli,Musiri,Pulivalam,09-12-2024
+CBEMETKAR9,0.0,Tholampalayam,11.17951,76.83265,Coimbatore,Mettupalayam,Karamadai,09-12-2024
+ERDNAMNAM27,0.0,Thalguni,11.37888,77.41288,Erode,Nambiyur,Nambiyur,09-12-2024
+KALKALTHI26,0.0,Periyamambattu,11.73593,79.08219,Kallakurichi,Kallakurichi,Thiyagadurgam,09-12-2024
+KGIUTHSAM38,0.0,Karapattu,12.3633,78.54785,Krishnagiri,Uthangarai,Samalpatti,09-12-2024
+TNJTHRADU17,0.0,Maruthuvakudi,11.02385,79.48965,Thanjavur,Thiruvidaimaruthur,Aduthurai,09-12-2024
+TNVTHITIS32,0.0,Tisayanvillai,8.33933,77.867,Tirunelveli,Thisayanvilai,Tisayanvilai,09-12-2024
+TKSTENALW36,0.0,Sivasailam 2,8.781835,77.34614,Tenkasi,Tenkasi,Alwarkurichi,09-12-2024
+SVGKARSAK25,0.0,Sakkottai,10.09749,78.8508,Sivagangai,Karaikudi,Sakkottai,09-12-2024
+TPTTIRTHI15,0.0,Koodapattu,12.47757,78.65636,Tirupathur,Tirupattur,Thirupathur,09-12-2024
+THNUTHCHI5,0.0,Chinnaovalapuram,9.786677,77.38047,Theni,Uthamapalayam,Chinnamanur,09-12-2024
+MDUPERELU2,0.0,Elumalai,9.877909,77.69023,Madurai,Peraiyur,Elumalai,09-12-2024
+TRYTHUTHU82,0.0,Perumalpalayam,11.21288,78.58239,Thiruchirappalli,,Thuraiyur,09-12-2024
+MYDTHATHI11,0.0,Tharangambadi,11.02504,79.84043,Mayiladuthurai,Tharangambadi,Thillaiyadi,09-12-2024
+ERDEROERO13,0.0,Surampatti,11.34439,77.70166,Erode,Erode,Erode (East),09-12-2024
+ARIARINAG10,0.0,Melakaruppur,11.05011,79.0978,Ariyalur,Ariyalur,Nagamangalam,09-12-2024
+MDUVADNEE15,0.0,Kulasekarankottai,10.07055,77.97692,Madurai,Vadipatti,Neerethan,09-12-2024
+TPRKANNAT22,0.0,Maravapalayam,11.09931,77.55678,Tiruppur,Kangeyam,Nathakadayur,09-12-2024
+CBEPOLPER30,0.4,Negamam,10.74339,77.10275,Coimbatore,Pollachi,Periyanekamam,09-12-2024
+TPTTIRTHI16,0.0,Tirupathur,12.50029,78.56623,Tirupathur,Tirupattur,Thirupathur,09-12-2024
+MDUPERPER19,0.0,Peraiyur,9.738088,77.79005,Madurai,Peraiyur,Peraiyur,09-12-2024
+TNVNANMOO20,0.0,Muninjipatti,8.511975,77.79891,Tirunelveli,Nanguneri,Moolakaraipatti,09-12-2024
+CHN02Z017W7,0.0,Kosapur,13.18259,80.23504,Chennai,Manali,Ward 17 (Vadaperumbakkam),09-12-2024
+KARKARVEL32,0.0,Velliyanai (North),10.84753,78.12088,Karur,Karur,Velliannai,09-12-2024
+TVMPOLSAN39,0.0,Padavedu,12.66021,79.1146,Tiruvannamalai,Polur,Santhavasal,09-12-2024
+CBEPOLKOL14,0.0,Kolarpatty,10.62753,77.11115,Coimbatore,Pollachi,Kolarpatty,09-12-2024
+KPMUTHUTH17,0.0,Vedapalayam,12.61153,79.73439,Kancheepuram,Uthiramerur,Uthiramerur,09-12-2024
+DPIPENPEN29,0.0,Pennagaram,12.13449,77.89312,Dharmapuri,Pennagaram,Pennagaram,09-12-2024
+TKSKADKAD10,0.4,Ariyanayagipuram,9.108304,77.41604,Tenkasi,Kadayanallur,Kadayanallur,09-12-2024
+RPTARCARC3,0.0,Arcot,12.90263,79.33708,Ranipet,Arcot,Arcot,09-12-2024
+CUDPANMAR13,0.0,Marungur,11.65481,79.53085,Cuddalore,Panruti,Marungur,09-12-2024
+KGIBARPAL30,0.0,Varatanapalli,12.5831,78.30387,Krishnagiri,Bargur,Pallepalli,09-12-2024
+NMKKOLVAL27,0.0,Vazhavanthi Nadu,11.30764,78.35394,Namakkal,Kolli hills,Valavanthi Nadu,09-12-2024
+SLMATTMAL24,0.0,Maligaikarai,11.57001,78.49809,Salem,Attur,Malliyakarai,09-12-2024
+SVGTHRTHI39,0.0,Thirukostiyur,10.0609,78.56265,Sivagangai,Thirupattur,Thirukostiyur,09-12-2024
+TLRGUMPOO23,0.0,Madharpakkam,13.44207,80.00414,Tiruvallur,Gummidipoondi,Poovalambedu,09-12-2024
+PDKMANSIN39,0.0,Kottaippattinam,9.979437,79.1981,Pudukkottai,Manamelkudi,Singavanam,09-12-2024
+TUTVILVEM48,0.0,Ariyanayaki Puram,9.109687,78.25241,Thoothukudi,Vilathikulam,Vembar,09-12-2024
+CHN11Z148W36,0.0,Nerkundram,13.05498,80.18115,Chennai,Valasaravakkam,Ward 148 (Nerkundram),09-12-2024
+ERDPERTHI42,0.0,Thingalur,11.31984,77.48826,Erode,Perundurai,Thingalur,09-12-2024
+TPRMADTHU41,0.0,Karatholuvu,10.62339,77.37914,Tiruppur,Madathukkulam,Thungavi,09-12-2024
+TPRUDUPER27,0.0,Periyavalavadi,10.54496,77.10197,Tiruppur,Udumalpet,Periavalavadi,09-12-2024
+TUTVILKAD9,0.0,Kadalkudi,9.205475,78.24249,Thoothukudi,Vilathikulam,Kadalkudi,09-12-2024
+NLGGUDGUA8,0.0,Mudumalai,11.58056,76.5791,Nilgiris,Gudalur,Gudalur_R.F,09-12-2024
+DGLDIDDHA9,0.0,Kasavanampatti,10.37095,77.87222,Dindigul,Dindigul (West),Dharmathupatti,09-12-2024
+CGLCHESIN25,0.0,Singaperumalkoil,12.7717,80.01018,Chengalpattu,Chengalpattu,Singaperumal Kovil,09-12-2024
+TUTSATSAT33,0.0,Pannamparai,8.458279,77.93674,Thoothukudi,Sattankulam,Sattankulam,09-12-2024
+DGLDIDDIN13,0.0,Agaram,10.41918,77.91862,Dindigul,Dindigul (West),Dindigul (West),09-12-2024
+TVMCHNCHE5,0.0,Alaputhur,12.34497,78.78978,Tiruvannamalai,Chengam,Chengam,09-12-2024
+TPTAMBMAD11,0.0,Madhanur,12.8707,78.84729,Tirupathur,Ambur,Madhanur,09-12-2024
+CBEPOLRAM32,0.0,Ramapattinam,10.68561,76.92614,Coimbatore,Pollachi,Ramapattinam,09-12-2024
+TUTKOVILL7,0.0,Ilaiyarasanenthal,9.215833,77.78634,Thoothukudi,Kovilpatty,Illayarasanendal,09-12-2024
+TLRPONKAT11,0.0,Thiruvellavoyal,13.33534,80.2839,Tiruvallur,Ponneri,Kattur,09-12-2024
+TLRPONKAT12,0.0,Kadapakkam,13.38035,80.29178,Tiruvallur,Ponneri,Kattur,09-12-2024
+SLMSAWALA1,0.0,Alagapuram,11.67406,78.11771,Salem,Salem (West),Alagapuram,09-12-2024
+DGLODDKAL16,0.0,Paruthiyur,10.65687,77.60004,Dindigul,Oddenchatram,Kallimanthayam,09-12-2024
+ERDMODMOD26,0.0,Modakurichi (B),11.22703,77.77732,Erode,Modakkurichi,Modakkurichi,09-12-2024
+ARIARIELA3,0.0,Elakkurichy,10.9516,79.17232,Ariyalur,Ariyalur,Elakkurichi,09-12-2024
+CBEPERTHO40,0.0,Thondamuthur,10.98677,76.84457,Coimbatore,Perur,Thondamuthur,09-12-2024
+RMDKADSAY31,0.0,Mookaiyur,9.137367,78.47,Ramanathapuram,Kadaladi,Sayalgudi,09-12-2024
+VNRTIRNAR22,0.0,Andiyenthal,9.590752,78.37018,Virudhunagar,Tiruchuli,Narikudi,09-12-2024
+TVMVANDES6,0.0,Vedal,12.37738,79.47313,Tiruvannamalai,Vandavasi,Desur,09-12-2024
+CHN06Z077W20,0.0,Pulianthope,13.0963,80.26584,Chennai,Thiru. Vi. Ka. Nagar,Ward 77 (Thiru.Vi. Ka Nagar),09-12-2024
+DPIPENPER34,0.0,Kalappambadi,12.0319,77.93249,Dharmapuri,Pennagaram,Perumbalai,09-12-2024
+THNUTHTHE24,0.0,Thevaram,9.891184,77.2848,Theni,Uthamapalayam,Thevaram,09-12-2024
+DGLNATNAT28,0.0,Nadumandalam Puthupatty,10.28572,78.2708,Dindigul,Natham,Natham,09-12-2024
+MDUVADNEE14,0.0,Katchaikatti,10.08449,78.00064,Madurai,Vadipatti,Neerethan,09-12-2024
+SVGILATHA38,0.0,Thayamangalam,9.685159,78.60455,Sivagangai,Ilayankudi,Thayamangalam,09-12-2024
+NGPNAGTHE4,0.0,South Poigai Nallur,10.70323,79.84207,Nagapattinam,Nagapattinam,Therkupoigainallur,09-12-2024
+PDKKARKAR10,0.0,Karambakudi,10.45647,79.12071,Pudukkottai,Karambakudi,Karambakudi,09-12-2024
+TVMCHYTHE49,5.2,Thethurai,12.61286,79.63201,Tiruvannamalai,Cheyyar,Thethurai,09-12-2024
+TPRAVISEV39,0.0,Sevur,11.24747,77.23709,Tiruppur,Avinashi,Sevur,09-12-2024
+TVRMANTHA19,0.0,Manargudi,10.54375,79.55059,Thiruvarur,Muthupettai,Palaiyur,09-12-2024
+SVGSIVSIV32,0.0,Kottagudi,9.848681,78.46078,Sivagangai,Sivagangai,Sivagangai,09-12-2024
+SVGILASAL26,0.0,Salaigramam,9.607658,78.71439,Sivagangai,Ilayankudi,Salaigramam,09-12-2024
+MDUMELMEU11,0.0,Melur,10.03074,78.33447,Madurai,Melur,Melur,09-12-2024
+CGLCHYKOD9,0.0,Kovathur,12.44666,80.10945,Chengalpattu,Cheyyur,Kodur,09-12-2024
+SVGKALKAL69,0.0,Kalaiyarkovil,9.850464,78.63176,Sivagangai,,Kalaiyarkovil,09-12-2024
+CUDKATKUM12,0.0,Puliyangudi,11.26961,79.60788,Cuddalore,,Kumaratchi,09-12-2024
+VPMKANARA3,0.0,Vasanthakrishnapuram,12.02665,79.1887,Villupuram,Kandachipuram,Arakandanallur,09-12-2024
+TNJPERKUR81,0.0,Kuruvikarambai,10.28554,79.24548,Thanjavur,,Kuruvikkarambai,09-12-2024
+DPIPENPEG31,0.0,Neruppur,11.96194,77.76488,Dharmapuri,Pennagaram,Pennagaram_R.F,09-12-2024
