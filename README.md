@@ -1,4 +1,3 @@
-1. Run the following command 
-python main coding is weather.py and db is postgres
-tes1.py db is test 
+1.python main coding is weather.py and db is postgres
+2.tes1.py db is test 
 
